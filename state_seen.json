@@ -258,6 +258,7 @@
     "roberthalf||Robert Half||00210-0013472129-usen||https://www.roberthalf.com/us/en/job/phoenix-az/medical-data-entry-clerk/00210-0013472129-usen": "2026-07-16T18:15:19.762466+00:00",
     "roberthalf||Robert Half||00210-0013505767-usen||https://www.roberthalf.com/us/en/job/tempe-az/desktop-support-analyst/00210-0013505767-usen": "2026-09-14T22:11:45.849572+00:00",
     "roberthalf||Robert Half||00210-9504372149-usen||https://www.roberthalf.com/us/en/job/phoenix-az/data-engineer/00210-9504372149-usen": "2026-07-31T20:34:55.096095+00:00",
+    "roberthalf||Robert Half||00210-9504404543-usen||https://www.roberthalf.com/us/en/job/glendale-arizona/network-technician-data-center/00210-9504404543-usen": "2026-10-01T19:52:35.677640+00:00",
     "roberthalf||Robert Half||00220-0013485140-usen||https://www.roberthalf.com/us/en/job/tucson-az/financial-analyst/00220-0013485140-usen": "2026-08-09T06:27:02.548815+00:00",
     "roberthalf||Robert Half||00240-9504359416-usen||https://www.roberthalf.com/us/en/job/oceanside-ca/data-entry-clerk-logistics-distribution/00240-9504359416-usen": "2026-07-07T23:16:30.434106+00:00",
     "roberthalf||Robert Half||00240-9504379621-usen||https://www.roberthalf.com/us/en/job/oceanside-ca/data-entry-clerk-construction/00240-9504379621-usen": "2026-08-15T06:19:19.318940+00:00",
@@ -615,7 +616,6 @@
     "roberthalf||Robert Half||02300-0013492087-usen||https://www.roberthalf.com/us/en/job/minneapolis-mn/business-analyticsdata-analyst/02300-0013492087-usen": "2026-08-20T14:24:35.405546+00:00",
     "roberthalf||Robert Half||02300-0013499099-usen||https://www.roberthalf.com/us/en/job/northfield-mn/deskdesktop-support-analyst/02300-0013499099-usen": "2026-09-02T13:00:12.631351+00:00",
     "roberthalf||Robert Half||02300-0013510606-usen||https://www.roberthalf.com/us/en/job/eden-prairie-minnesota/cyber-security-analyst/02300-0013510606-usen": "2026-09-22T11:42:41.103697+00:00",
-    "roberthalf||Robert Half||02302-0013459634-usen||https://www.roberthalf.com/us/en/job/saint-paul-mn/benefits-analyst/02302-0013459634-usen": "2026-07-03T17:51:43.953648+00:00",
     "roberthalf||Robert Half||02302-0013470364-usen||https://www.roberthalf.com/us/en/job/minneapolis-mn/dayforce-hris-analyst-ideally-onsite-but-open-to-remote/02302-0013470364-usen": "2026-07-18T19:46:31.718542+00:00",
     "roberthalf||Robert Half||02302-0013473599-usen||https://www.roberthalf.com/us/en/job/bayport-mn/sr-benefits-analyst/02302-0013473599-usen": "2026-07-20T18:14:42.767756+00:00",
     "roberthalf||Robert Half||02302-0013514996-usen||https://www.roberthalf.com/us/en/job/chanhassen-minnesota/people-analytics-analyst/02302-0013514996-usen": "2026-09-29T01:09:01.927322+00:00",
@@ -1202,6 +1202,7 @@
     "workday||Thomson Reuters Careers||JREQ203734||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Philippines-Manila/Legal-Research-Analyst_JREQ203734": "2026-09-17T15:01:38.559920+00:00",
     "workday||Thomson Reuters Careers||JREQ203740||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Burlington-Vermont/Data-Engineer_JREQ203740-1": "2026-09-21T19:29:31.060125+00:00",
     "workday||Thomson Reuters Careers||JREQ203833||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Technology-Sourcing-Analyst_JREQ203833": "2026-09-21T22:43:17.112880+00:00",
-    "workday||Thomson Reuters Careers||JREQ203915||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Staff-Data-Platform-Engineer_JREQ203915-7": "2026-09-24T20:45:25.814958+00:00"
+    "workday||Thomson Reuters Careers||JREQ203915||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Staff-Data-Platform-Engineer_JREQ203915-7": "2026-09-24T20:45:25.814958+00:00",
+    "workday||Thomson Reuters Careers||JREQ203968||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Analyst--Third-Party-Diligence_JREQ203968": "2026-10-01T19:52:35.677640+00:00"
   }
 }
