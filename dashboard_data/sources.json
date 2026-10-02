@@ -3,10 +3,10 @@
     "name": "Cascade Financial Services",
     "type": "greenhouse",
     "status": "healthy",
-    "jobs_fetched": 7,
+    "jobs_fetched": 8,
     "jobs_matched": 0,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 155,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 152,
     "error": null
   },
   {
@@ -15,8 +15,8 @@
     "status": "healthy",
     "jobs_fetched": 10,
     "jobs_matched": 5,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 702,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 824,
     "error": null
   },
   {
@@ -25,8 +25,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 1,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 1316,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 2463,
     "error": null
   },
   {
@@ -35,8 +35,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 10,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 2811,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 3269,
     "error": null
   },
   {
@@ -45,8 +45,8 @@
     "status": "healthy",
     "jobs_fetched": 15,
     "jobs_matched": 0,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 245,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 306,
     "error": null
   },
   {
@@ -55,8 +55,8 @@
     "status": "healthy",
     "jobs_fetched": 9,
     "jobs_matched": 0,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 106,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 105,
     "error": null
   },
   {
@@ -65,8 +65,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 0,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 1553,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 1968,
     "error": null
   },
   {
@@ -74,9 +74,9 @@
     "type": "workday",
     "status": "healthy",
     "jobs_fetched": 40,
-    "jobs_matched": 2,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 1879,
+    "jobs_matched": 1,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 2123,
     "error": null
   },
   {
@@ -85,8 +85,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 2,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 2062,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 2149,
     "error": null
   },
   {
@@ -94,19 +94,19 @@
     "type": "workday",
     "status": "healthy",
     "jobs_fetched": 40,
-    "jobs_matched": 2,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 4898,
+    "jobs_matched": 4,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 5556,
     "error": null
   },
   {
     "name": "Doximity Careers",
     "type": "greenhouse",
     "status": "healthy",
-    "jobs_fetched": 14,
+    "jobs_fetched": 15,
     "jobs_matched": 2,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 40,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 112,
     "error": null
   },
   {
@@ -115,28 +115,28 @@
     "status": "healthy",
     "jobs_fetched": 149,
     "jobs_matched": 12,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 187,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 324,
     "error": null
   },
   {
     "name": "GovernmentJobs US",
     "type": "governmentjobs",
     "status": "healthy",
-    "jobs_fetched": 30,
-    "jobs_matched": 25,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 38057,
+    "jobs_fetched": 20,
+    "jobs_matched": 17,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 40321,
     "error": null
   },
   {
     "name": "Robert Half",
     "type": "roberthalf",
     "status": "healthy",
-    "jobs_fetched": 119,
-    "jobs_matched": 6,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 16227,
+    "jobs_fetched": 116,
+    "jobs_matched": 8,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 17724,
     "error": null
   },
   {
@@ -145,18 +145,18 @@
     "status": "healthy",
     "jobs_fetched": 261,
     "jobs_matched": 3,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 2347,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 4065,
     "error": null
   },
   {
     "name": "KPMG US Careers",
     "type": "kpmg",
-    "status": "healthy",
-    "jobs_fetched": 180,
-    "jobs_matched": 9,
-    "last_scan": "2026-10-02T08:56:59Z",
-    "duration_ms": 10355,
-    "error": null
+    "status": "failed",
+    "jobs_fetched": 0,
+    "jobs_matched": 0,
+    "last_scan": "2026-10-02T15:14:12Z",
+    "duration_ms": 300,
+    "error": "Expecting value: line 1 column 1 (char 0)"
   }
 ]
