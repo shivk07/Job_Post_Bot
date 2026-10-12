@@ -5,8 +5,8 @@
     "status": "healthy",
     "jobs_fetched": 7,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 143,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 160,
     "error": null
   },
   {
@@ -15,8 +15,8 @@
     "status": "healthy",
     "jobs_fetched": 10,
     "jobs_matched": 4,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 606,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 597,
     "error": null
   },
   {
@@ -25,8 +25,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 1233,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 1294,
     "error": null
   },
   {
@@ -35,28 +35,28 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 8,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 3198,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 2852,
     "error": null
   },
   {
     "name": "Entertime Careers",
     "type": "entertime",
-    "status": "failed",
-    "jobs_fetched": 0,
+    "status": "healthy",
+    "jobs_fetched": 13,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 221,
-    "error": "403 Client Error: Forbidden for url: https://secure4.entertimeonline.com/ta/rest/ui/recruitment/companies/%7C6149039/job-requisitions?_=1791819096487&offset=0&size=20&lang=en-US&sort=desc"
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 292,
+    "error": null
   },
   {
     "name": "GumGum Careers",
     "type": "greenhouse",
     "status": "healthy",
-    "jobs_fetched": 10,
+    "jobs_fetched": 11,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 87,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 60,
     "error": null
   },
   {
@@ -65,8 +65,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 1489,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 1663,
     "error": null
   },
   {
@@ -74,9 +74,9 @@
     "type": "workday",
     "status": "healthy",
     "jobs_fetched": 40,
-    "jobs_matched": 1,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 1843,
+    "jobs_matched": 2,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 1770,
     "error": null
   },
   {
@@ -84,9 +84,9 @@
     "type": "workday",
     "status": "healthy",
     "jobs_fetched": 40,
-    "jobs_matched": 3,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 2013,
+    "jobs_matched": 2,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 1959,
     "error": null
   },
   {
@@ -95,8 +95,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 6,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 4790,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 4190,
     "error": null
   },
   {
@@ -105,38 +105,38 @@
     "status": "healthy",
     "jobs_fetched": 15,
     "jobs_matched": 3,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 53,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 38,
     "error": null
   },
   {
     "name": "Whatnot Careers",
     "type": "ashby",
     "status": "healthy",
-    "jobs_fetched": 151,
-    "jobs_matched": 12,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 544,
+    "jobs_fetched": 149,
+    "jobs_matched": 11,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 260,
     "error": null
   },
   {
     "name": "GovernmentJobs US",
     "type": "governmentjobs",
     "status": "healthy",
-    "jobs_fetched": 40,
-    "jobs_matched": 33,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 39799,
+    "jobs_fetched": 30,
+    "jobs_matched": 25,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 38013,
     "error": null
   },
   {
     "name": "Robert Half",
     "type": "roberthalf",
     "status": "healthy",
-    "jobs_fetched": 114,
+    "jobs_fetched": 87,
     "jobs_matched": 5,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 18131,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 17849,
     "error": null
   },
   {
@@ -145,8 +145,8 @@
     "status": "healthy",
     "jobs_fetched": 273,
     "jobs_matched": 4,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 3166,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 1756,
     "error": null
   },
   {
@@ -155,8 +155,8 @@
     "status": "healthy",
     "jobs_fetched": 180,
     "jobs_matched": 3,
-    "last_scan": "2026-10-12T15:32:18Z",
-    "duration_ms": 18102,
+    "last_scan": "2026-10-12T22:35:03Z",
+    "duration_ms": 10591,
     "error": null
   }
 ]
