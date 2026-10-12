@@ -5,8 +5,8 @@
     "status": "healthy",
     "jobs_fetched": 7,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 235,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 194,
     "error": null
   },
   {
@@ -15,8 +15,8 @@
     "status": "healthy",
     "jobs_fetched": 10,
     "jobs_matched": 4,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 665,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 642,
     "error": null
   },
   {
@@ -25,8 +25,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 1395,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 1405,
     "error": null
   },
   {
@@ -35,8 +35,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 8,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 2801,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 2865,
     "error": null
   },
   {
@@ -45,8 +45,8 @@
     "status": "healthy",
     "jobs_fetched": 13,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 258,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 293,
     "error": null
   },
   {
@@ -55,8 +55,8 @@
     "status": "healthy",
     "jobs_fetched": 10,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 189,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 119,
     "error": null
   },
   {
@@ -65,8 +65,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 0,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 1659,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 1754,
     "error": null
   },
   {
@@ -75,8 +75,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 2,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 2151,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 1816,
     "error": null
   },
   {
@@ -85,8 +85,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 2,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 2589,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 1870,
     "error": null
   },
   {
@@ -94,9 +94,9 @@
     "type": "workday",
     "status": "healthy",
     "jobs_fetched": 40,
-    "jobs_matched": 4,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 4403,
+    "jobs_matched": 3,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 4555,
     "error": null
   },
   {
@@ -105,8 +105,8 @@
     "status": "healthy",
     "jobs_fetched": 15,
     "jobs_matched": 3,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 141,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 76,
     "error": null
   },
   {
@@ -115,8 +115,8 @@
     "status": "healthy",
     "jobs_fetched": 151,
     "jobs_matched": 12,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 631,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 318,
     "error": null
   },
   {
@@ -125,8 +125,8 @@
     "status": "healthy",
     "jobs_fetched": 30,
     "jobs_matched": 25,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 37130,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 37510,
     "error": null
   },
   {
@@ -135,18 +135,18 @@
     "status": "healthy",
     "jobs_fetched": 122,
     "jobs_matched": 7,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 18630,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 17998,
     "error": null
   },
   {
     "name": "Advantest Careers",
     "type": "adp",
     "status": "healthy",
-    "jobs_fetched": 274,
+    "jobs_fetched": 275,
     "jobs_matched": 4,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 2625,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 2780,
     "error": null
   },
   {
@@ -155,8 +155,8 @@
     "status": "healthy",
     "jobs_fetched": 180,
     "jobs_matched": 3,
-    "last_scan": "2026-10-12T00:27:49Z",
-    "duration_ms": 13152,
+    "last_scan": "2026-10-12T06:16:54Z",
+    "duration_ms": 12330,
     "error": null
   }
 ]
