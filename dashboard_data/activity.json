@@ -1,131 +1,5 @@
 [
   {
-    "timestamp": "2026-09-23T18:30:23Z",
-    "status": "success",
-    "duration_seconds": 40.44,
-    "sources_total": 16,
-    "sources_succeeded": 16,
-    "sources_failed": 0,
-    "jobs_fetched": 1031,
-    "jobs_matched": 83,
-    "new_jobs": 6,
-    "alerts_sent": 6,
-    "sources": [
-      {
-        "name": "Cascade Financial Services",
-        "status": "healthy",
-        "jobs_fetched": 7,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Skechers Data Search",
-        "status": "healthy",
-        "jobs_fetched": 10,
-        "jobs_matched": 6,
-        "error": null
-      },
-      {
-        "name": "SCAN Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 2,
-        "error": null
-      },
-      {
-        "name": "Santander Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 8,
-        "error": null
-      },
-      {
-        "name": "Entertime Careers",
-        "status": "healthy",
-        "jobs_fetched": 17,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "GumGum Careers",
-        "status": "healthy",
-        "jobs_fetched": 13,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Petco Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Intel Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 1,
-        "error": null
-      },
-      {
-        "name": "Thomson Reuters Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 4,
-        "error": null
-      },
-      {
-        "name": "Accenture Careers Alt",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 2,
-        "error": null
-      },
-      {
-        "name": "Doximity Careers",
-        "status": "healthy",
-        "jobs_fetched": 16,
-        "jobs_matched": 2,
-        "error": null
-      },
-      {
-        "name": "Whatnot Careers",
-        "status": "healthy",
-        "jobs_fetched": 142,
-        "jobs_matched": 12,
-        "error": null
-      },
-      {
-        "name": "GovernmentJobs US",
-        "status": "healthy",
-        "jobs_fetched": 30,
-        "jobs_matched": 29,
-        "error": null
-      },
-      {
-        "name": "Robert Half",
-        "status": "healthy",
-        "jobs_fetched": 109,
-        "jobs_matched": 7,
-        "error": null
-      },
-      {
-        "name": "Advantest Careers",
-        "status": "healthy",
-        "jobs_fetched": 267,
-        "jobs_matched": 2,
-        "error": null
-      },
-      {
-        "name": "KPMG US Careers",
-        "status": "healthy",
-        "jobs_fetched": 180,
-        "jobs_matched": 8,
-        "error": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-23T21:40:42Z",
     "status": "success",
     "duration_seconds": 41.05,
@@ -25195,6 +25069,132 @@
         "status": "healthy",
         "jobs_fetched": 180,
         "jobs_matched": 6,
+        "error": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-30T00:18:31Z",
+    "status": "success",
+    "duration_seconds": 44.15,
+    "sources_total": 16,
+    "sources_succeeded": 16,
+    "sources_failed": 0,
+    "jobs_fetched": 1053,
+    "jobs_matched": 91,
+    "new_jobs": 7,
+    "alerts_sent": 7,
+    "sources": [
+      {
+        "name": "Cascade Financial Services",
+        "status": "healthy",
+        "jobs_fetched": 4,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "Skechers Data Search",
+        "status": "warning",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "SCAN Careers",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 2,
+        "error": null
+      },
+      {
+        "name": "Santander Careers",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 10,
+        "error": null
+      },
+      {
+        "name": "Entertime Careers",
+        "status": "healthy",
+        "jobs_fetched": 18,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "GumGum Careers",
+        "status": "healthy",
+        "jobs_fetched": 12,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "Petco Careers",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "Intel Careers",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 2,
+        "error": null
+      },
+      {
+        "name": "Thomson Reuters Careers",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 2,
+        "error": null
+      },
+      {
+        "name": "Accenture Careers Alt",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 4,
+        "error": null
+      },
+      {
+        "name": "Doximity Careers",
+        "status": "healthy",
+        "jobs_fetched": 13,
+        "jobs_matched": 3,
+        "error": null
+      },
+      {
+        "name": "Whatnot Careers",
+        "status": "healthy",
+        "jobs_fetched": 141,
+        "jobs_matched": 10,
+        "error": null
+      },
+      {
+        "name": "GovernmentJobs US",
+        "status": "healthy",
+        "jobs_fetched": 40,
+        "jobs_matched": 37,
+        "error": null
+      },
+      {
+        "name": "Robert Half",
+        "status": "healthy",
+        "jobs_fetched": 117,
+        "jobs_matched": 8,
+        "error": null
+      },
+      {
+        "name": "Advantest Careers",
+        "status": "healthy",
+        "jobs_fetched": 288,
+        "jobs_matched": 5,
+        "error": null
+      },
+      {
+        "name": "KPMG US Careers",
+        "status": "healthy",
+        "jobs_fetched": 180,
+        "jobs_matched": 8,
         "error": null
       }
     ]
