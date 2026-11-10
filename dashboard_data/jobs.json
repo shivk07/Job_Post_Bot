@@ -13,7 +13,7 @@
       "machine learning"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -30,7 +30,7 @@
       "machine learning"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -47,7 +47,7 @@
       "data"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -64,7 +64,7 @@
       "data"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -81,7 +81,7 @@
       "machine learning"
     ],
     "first_seen": "2026-09-08T21:22:44Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -98,7 +98,7 @@
       "machine learning"
     ],
     "first_seen": "2026-09-17T15:01:38Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -116,7 +116,7 @@
       "data"
     ],
     "first_seen": "2026-09-29T18:45:24Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -133,7 +133,7 @@
       "analyst"
     ],
     "first_seen": "2026-10-09T17:14:49Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -150,7 +150,7 @@
       "machine learning"
     ],
     "first_seen": "2026-10-13T17:42:11Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -168,7 +168,7 @@
       "data"
     ],
     "first_seen": "2026-10-14T22:27:48Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -185,7 +185,7 @@
       "data"
     ],
     "first_seen": "2026-08-25T07:23:34Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -202,7 +202,7 @@
       "data"
     ],
     "first_seen": "2026-09-28T15:56:31Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -219,7 +219,7 @@
       "data"
     ],
     "first_seen": "2026-09-28T15:56:31Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -237,7 +237,7 @@
       "data"
     ],
     "first_seen": "2026-10-09T10:52:50Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -254,7 +254,7 @@
       "analyst"
     ],
     "first_seen": "2026-10-20T06:06:09Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -271,7 +271,7 @@
       "analyst"
     ],
     "first_seen": "2026-09-27T20:26:04Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -288,7 +288,7 @@
       "analyst"
     ],
     "first_seen": "2026-10-23T19:19:58Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
   },
   {
@@ -306,8 +306,1095 @@
       "data"
     ],
     "first_seen": "2026-10-24T00:47:35Z",
-    "last_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
     "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5530302||https://www.governmentjobs.com/jobs/5530302-0/data-analyst",
+    "title": "Data Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Regional Transportation Commission (RTC) Las Vegas, NV",
+    "department": "RTC of Southern Nevada",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5530302-0/data-analyst",
+    "external_id": "5530302",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-27T18:55:24Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5528907||https://www.governmentjobs.com/jobs/5528907-0/data-analytics-specialist-data-analyst-ii",
+    "title": "Data Analytics Specialist (Data Analyst II)",
+    "company": "GovernmentJobs US",
+    "location": "FAIRFAX (EJ26), VA",
+    "department": "Fairfax County",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5528907-0/data-analytics-specialist-data-analyst-ii",
+    "external_id": "5528907",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-31T06:55:14Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req0860022||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-SGTO-Software-engineering-Coe-Data_Req0860022",
+    "title": "I_SGTO_Software engineering Coe Data",
+    "company": "Santander Careers",
+    "location": "Boadilla del Monte",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-SGTO-Software-engineering-Coe-Data_Req0860022",
+    "external_id": "Req0860022",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req0904505||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-T-OCC-Data-Analyst-Information-Centre_Req0904505",
+    "title": "I_T&OCC_Data Analyst Information Centre",
+    "company": "Santander Careers",
+    "location": "Boadilla del Monte",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-T-OCC-Data-Analyst-Information-Centre_Req0904505",
+    "external_id": "Req0904505",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1614921||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTA-BARBARA-1/Santander-AI-Lab---Frontier-Agentic-AI-Engineer_Req1614921",
+    "title": "Santander AI Lab - Frontier Agentic AI Engineer",
+    "company": "Santander Careers",
+    "location": "SANTA BARBARA 1",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTA-BARBARA-1/Santander-AI-Lab---Frontier-Agentic-AI-Engineer_Req1614921",
+    "external_id": "Req1614921",
+    "matched_keywords": [
+      "ai engineer"
+    ],
+    "first_seen": "2026-09-23T14:27:36Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1574786||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/London/Vice-President--Quantitative-Analyst---FX-Options---SCIB_Req1574786",
+    "title": "Vice President, Quantitative Analyst – FX Options | SCIB",
+    "company": "Santander Careers",
+    "location": "London",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/London/Vice-President--Quantitative-Analyst---FX-Options---SCIB_Req1574786",
+    "external_id": "Req1574786",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-06T13:59:51Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1629914||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Lider-Data-Modelagem---Scientist_Req1629914",
+    "title": "Lider Data Modelagem - Scientist",
+    "company": "Santander Careers",
+    "location": "SAO PAULO",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Lider-Data-Modelagem---Scientist_Req1629914",
+    "external_id": "Req1629914",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-10-29T20:39:21Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1628806||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Risk-Data-Scientist-II_Req1628806",
+    "title": "Risk Data Scientist II",
+    "company": "Santander Careers",
+    "location": "SAO PAULO",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Risk-Data-Scientist-II_Req1628806",
+    "external_id": "Req1628806",
+    "matched_keywords": [
+      "data scientist",
+      "data"
+    ],
+    "first_seen": "2026-10-30T21:38:23Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||138311084216853190||https://www.kpmguscareers.com/jobdetail/?jobId=135757",
+    "title": "Associate Data Programmer, Global Trade",
+    "company": "KPMG US Careers",
+    "location": "Atlanta, GA; Boston, MA; Charlotte, NC; Dallas, TX; Denver, CO; Detroit, MI; Los Angeles, CA; McLean, VA; Morristown, NJ; New York, NY; Orlando, FL; Philadelphia, PA; Phoenix, AZ; Salt Lake City, UT; San Diego, CA; San Francisco, CA",
+    "department": "Tax",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135757",
+    "external_id": "138311084216853190",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-08-20T17:16:45Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||129189535752823494||https://www.kpmguscareers.com/jobdetail/?jobId=135758",
+    "title": "Experienced Associate - Global Trade - Data Analytics",
+    "company": "KPMG US Careers",
+    "location": "Atlanta, GA; Boston, MA; Chicago, IL; Dallas, TX; Denver, CO; Detroit, MI; Ft Lauderdale, FL; Houston, TX; Los Angeles, CA; McLean, VA; Miami, FL; Morristown, NJ; New York, NY; Orlando, FL; Philadelphia, PA; Salt Lake City, UT; San Francisco, CA; Tempe, AZ",
+    "department": "Tax",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135758",
+    "external_id": "129189535752823494",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-08-20T17:16:45Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||112063737522725574||https://www.kpmguscareers.com/jobdetail/?jobId=135884",
+    "title": "Analyst, IT Svc Management",
+    "company": "KPMG US Careers",
+    "location": "Montvale, NJ",
+    "department": "Tax",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135884",
+    "external_id": "112063737522725574",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-08-20T17:16:45Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||93226104378008262||https://www.kpmguscareers.com/jobdetail/?jobId=139384",
+    "title": "Analyst II - Performance Hub (Temporary)",
+    "company": "KPMG US Careers",
+    "location": "Orlando, FL",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139384",
+    "external_id": "93226104378008262",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-15T23:53:58Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||86761818625581766||https://www.kpmguscareers.com/jobdetail/?jobId=139703",
+    "title": "Specialist, Federal Data Engineer",
+    "company": "KPMG US Careers",
+    "location": "McLean, VA",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139703",
+    "external_id": "86761818625581766",
+    "matched_keywords": [
+      "data engineer",
+      "data"
+    ],
+    "first_seen": "2026-10-30T00:18:31Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||110063768553038534||https://www.kpmguscareers.com/jobdetail/?jobId=139697",
+    "title": "Associate, Federal Data Analyst",
+    "company": "KPMG US Careers",
+    "location": "McLean, VA",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139697",
+    "external_id": "110063768553038534",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-30T00:18:31Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5530294||https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
+    "title": "Data Production Analyst (AI & QA Analyst) (Information Technology Analyst 3)",
+    "company": "GovernmentJobs US",
+    "location": "Trenton, NJ",
+    "department": "New Jersey Courts",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
+    "external_id": "5530294",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-02T20:47:50Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5530263||https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
+    "title": "Data Production Analyst (QA) (Information Technology Analyst 3)",
+    "company": "GovernmentJobs US",
+    "location": "Trenton, NJ",
+    "department": "New Jersey Courts",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
+    "external_id": "5530263",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-02T20:47:50Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||94395620483048134||https://www.kpmguscareers.com/jobdetail/?jobId=139724",
+    "title": "Databricks Sales Executive (Federal sector)",
+    "company": "KPMG US Careers",
+    "location": "McLean, VA; Washington, DC",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139724",
+    "external_id": "94395620483048134",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-03T02:40:18Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||4543639||https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
+    "title": "AUTOMATED METERING INFRASTRUCTURE (AMI) DATA ANALYST I (CLASS CODE 3457)",
+    "company": "GovernmentJobs US",
+    "location": "New Orleans, LA",
+    "department": "City of New Orleans",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
+    "external_id": "4543639",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5195111||https://www.governmentjobs.com/jobs/5195111-0/data-analyst-medicaid-fraud-belleville-26-02",
+    "title": "Data Analyst, Medicaid Fraud, Belleville, 26-02",
+    "company": "GovernmentJobs US",
+    "location": "Belleville, IL",
+    "department": "Illinois Attorney General (IL)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5195111-0/data-analyst-medicaid-fraud-belleville-26-02",
+    "external_id": "5195111",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1630359||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MA-Wilmington/Staff--Data-Quality_Req1630359",
+    "title": "Staff, Data Quality",
+    "company": "Santander Careers",
+    "location": "MA Wilmington",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MA-Wilmington/Staff--Data-Quality_Req1630359",
+    "external_id": "Req1630359",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-04T17:35:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1630152||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152",
+    "title": "ARG JR Data Scientist",
+    "company": "Santander Careers",
+    "location": "GARAY 151 PISO 4",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152",
+    "external_id": "Req1630152",
+    "matched_keywords": [
+      "data scientist",
+      "data"
+    ],
+    "first_seen": "2026-11-04T17:35:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5527560||https://www.governmentjobs.com/jobs/5527560-0/departmental-analyst-e-quality-assurance-data-analyst",
+    "title": "Departmental Analyst-E, Quality Assurance Data Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Lansing, MI",
+    "department": "State of Michigan",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5527560-0/departmental-analyst-e-quality-assurance-data-analyst",
+    "external_id": "5527560",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-04T17:35:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Accenture Careers Alt||Location Negotiable||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776",
+    "title": "Business Analyst - Intern",
+    "company": "Accenture Careers Alt",
+    "location": "R00279776 | Location Negotiable",
+    "department": "",
+    "source_name": "Accenture Careers Alt",
+    "source_type": "workday",
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776",
+    "external_id": "Location Negotiable",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-05T17:54:19Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5533120||https://www.governmentjobs.com/jobs/5533120-0/utility-database-analyst",
+    "title": "Utility Database Analyst",
+    "company": "GovernmentJobs US",
+    "location": "City of Alameda (Alameda Municipal Power), CA",
+    "department": "City of Alameda",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5533120-0/utility-database-analyst",
+    "external_id": "5533120",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-29T20:39:21Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5540633||https://www.governmentjobs.com/jobs/5540633-0/fiscal-information-and-data-analyst-wms2-fs-internal-only",
+    "title": "Fiscal Information and Data Analyst (WMS2/FS) - Internal Only",
+    "company": "GovernmentJobs US",
+    "location": "Thurston County – Olympia, WA",
+    "department": "State of Washington",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5540633-0/fiscal-information-and-data-analyst-wms2-fs-internal-only",
+    "external_id": "5540633",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-04T22:50:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||85332177826259654||https://www.kpmguscareers.com/jobdetail/?jobId=139314",
+    "title": "Trade Analyst, Shared Services - Salt Lake City",
+    "company": "KPMG US Careers",
+    "location": "Salt Lake City, UT",
+    "department": "Tax",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139314",
+    "external_id": "85332177826259654",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-14T19:27:49Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5543635||https://www.governmentjobs.com/jobs/5543635-0/human-resources-data-analyst-intern",
+    "title": "Human Resources Data Analyst Intern",
+    "company": "GovernmentJobs US",
+    "location": "Ames - 50010 - Story County, IA",
+    "department": "State of Iowa",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5543635-0/human-resources-data-analyst-intern",
+    "external_id": "5543635",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-06T22:25:25Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5422019||https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
+    "title": "Data Reporting & Query Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Main Campus - Philadelphia, PA",
+    "department": "Community College of Philadelphia",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
+    "external_id": "5422019",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5534291||https://www.governmentjobs.com/jobs/5534291-0/research-data-analyst-ii",
+    "title": "Research/Data Analyst II",
+    "company": "GovernmentJobs US",
+    "location": "25 - HINDS COUNTY, MS",
+    "department": "State of Mississippi",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5534291-0/research-data-analyst-ii",
+    "external_id": "5534291",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-29T20:39:21Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5533909||https://www.governmentjobs.com/jobs/5533909-0/tax-data-information-analyst",
+    "title": "Tax Data Information Analyst*",
+    "company": "GovernmentJobs US",
+    "location": "Tax Department, NC",
+    "department": "Orange County Government",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5533909-0/tax-data-information-analyst",
+    "external_id": "5533909",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-03T17:44:30Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5453248||https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
+    "title": "Data Analyst, Principal",
+    "company": "GovernmentJobs US",
+    "location": "Atlanta, GA 30303",
+    "department": "Atlanta Regional Commission (ARC)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
+    "external_id": "5453248",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-19T13:52:10Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||4775405||https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
+    "title": "PREDICTIVE DATA ANALYST / EMERGENCY APPOINTMENT HOMELESSNESS",
+    "company": "GovernmentJobs US",
+    "location": "Los Angeles County, CA",
+    "department": "County of Los Angeles",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
+    "external_id": "4775405",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Intel Careers||JR0286800||https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Database-Administrator-PL-SQL-Developer_JR0286800",
+    "title": "Database Administrator PL/SQL Developer",
+    "company": "Intel Careers",
+    "location": "2 Locations",
+    "department": "",
+    "source_name": "Intel Careers",
+    "source_type": "workday",
+    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Database-Administrator-PL-SQL-Developer_JR0286800",
+    "external_id": "JR0286800",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-09-07T18:22:04Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5195206||https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
+    "title": "Data Analyst, Medicaid Fraud, Oakbrook, 26-01",
+    "company": "GovernmentJobs US",
+    "location": "Oakbrook, IL",
+    "department": "Illinois Attorney General (IL)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
+    "external_id": "5195206",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||152614||https://www.governmentjobs.com/jobs/152614-1/data-quality-analyst",
+    "title": "Data Quality Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Portland, OR",
+    "department": "U.S. District Court, District of Oregon",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/152614-1/data-quality-analyst",
+    "external_id": "152614",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-23T19:19:58Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||152947||https://www.governmentjobs.com/jobs/152947-1/data-analyst-107759",
+    "title": "Data Analyst (107759)",
+    "company": "GovernmentJobs US",
+    "location": "Austin, TX",
+    "department": "Employees Retirement System of Texas",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/152947-1/data-analyst-107759",
+    "external_id": "152947",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-30T17:25:23Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5489943||https://www.governmentjobs.com/jobs/5489943-0/quality-management-system-data-analyst",
+    "title": "Quality Management System Data Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Des Moines - 50319 - Polk County, IA",
+    "department": "State of Iowa",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5489943-0/quality-management-system-data-analyst",
+    "external_id": "5489943",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-09-22T15:43:54Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5388193||https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
+    "title": "Institutional Research Strategic Data Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Zanesville Campus, OH",
+    "department": "Zane State College",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
+    "external_id": "5388193",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5195097||https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
+    "title": "Data Analyst, Medicaid Fraud, Springfield, 26-03",
+    "company": "GovernmentJobs US",
+    "location": "Springfield, IL",
+    "department": "Illinois Attorney General (IL)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
+    "external_id": "5195097",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Accenture Careers Alt||Location Negotiable||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw-Sienna-39/Snowflake-Solution-Architect--AI-Data--Fluent-in-data-modeling_R00368797",
+    "title": "Snowflake Solution Architect (AI&Data)",
+    "company": "Accenture Careers Alt",
+    "location": "R00368797 | Location Negotiable",
+    "department": "",
+    "source_name": "Accenture Careers Alt",
+    "source_type": "workday",
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw-Sienna-39/Snowflake-Solution-Architect--AI-Data--Fluent-in-data-modeling_R00368797",
+    "external_id": "Location Negotiable",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-03T22:33:07Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Santander Careers||Req1629700||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Data-Scientist-Spec-II_Req1629700",
+    "title": "Data Scientist Spec II",
+    "company": "Santander Careers",
+    "location": "SAO PAULO",
+    "department": "",
+    "source_name": "Santander Careers",
+    "source_type": "workday",
+    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Data-Scientist-Spec-II_Req1629700",
+    "external_id": "Req1629700",
+    "matched_keywords": [
+      "data scientist",
+      "data"
+    ],
+    "first_seen": "2026-11-09T20:53:47Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Accenture Careers Alt||Krakow, High 5Ive Development||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Analyst--with-Italian_R00362250",
+    "title": "Content Moderator (Junior Data Analyst) with Italian",
+    "company": "Accenture Careers Alt",
+    "location": "R00362250 | Krakow, High 5Ive Development",
+    "department": "",
+    "source_name": "Accenture Careers Alt",
+    "source_type": "workday",
+    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Analyst--with-Italian_R00362250",
+    "external_id": "Krakow, High 5Ive Development",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-09T20:53:47Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5445676||https://www.governmentjobs.com/jobs/5445676-0/data-analyst-intern-unpaid-intern",
+    "title": "Data Analyst Intern (Unpaid Intern)",
+    "company": "GovernmentJobs US",
+    "location": "Santa Ana, CA",
+    "department": "County of Orange",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5445676-0/data-analyst-intern-unpaid-intern",
+    "external_id": "5445676",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-17T17:37:49Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5525538||https://www.governmentjobs.com/jobs/5525538-0/data-analyst-intern-admin-intern-nc",
+    "title": "DATA ANALYST INTERN (ADMIN INTERN - NC)",
+    "company": "GovernmentJobs US",
+    "location": "City of Long Beach, CA",
+    "department": "City of Long Beach",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5525538-0/data-analyst-intern-admin-intern-nc",
+    "external_id": "5525538",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T03:03:13Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||00240-9504425252-usen||https://www.roberthalf.com/us/en/job/oceanside-ca/data-entry-clerk/00240-9504425252-usen",
+    "title": "Data Entry Clerk",
+    "company": "Robert Half",
+    "location": "Oceanside, CA",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/oceanside-ca/data-entry-clerk/00240-9504425252-usen",
+    "external_id": "00240-9504425252-usen",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-10T03:03:13Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||31000-0013534922-usen||https://www.roberthalf.com/us/en/job/bohemia-ny/marketing-analyst/31000-0013534922-usen",
+    "title": "Marketing Analyst",
+    "company": "Robert Half",
+    "location": "Bohemia, NY",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/bohemia-ny/marketing-analyst/31000-0013534922-usen",
+    "external_id": "31000-0013534922-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-04T17:35:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||00412-9504425279-usen||https://www.roberthalf.com/us/en/job/san-ramon-ca/trader-analyst-path-for-ria-firm/00412-9504425279-usen",
+    "title": "Trader - Analyst Path for RIA Firm!",
+    "company": "Robert Half",
+    "location": "San Ramon, CA",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/san-ramon-ca/trader-analyst-path-for-ria-firm/00412-9504425279-usen",
+    "external_id": "00412-9504425279-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-10T11:00:27Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ205150||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Analyst--Third-Party-Diligence_JREQ205150",
+    "title": "Associate Analyst, Third Party Diligence",
+    "company": "Thomson Reuters Careers",
+    "location": "Frisco; Eagan; Ann Arbor | Texas; Michigan; Minnesota | JREQ205150",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Analyst--Third-Party-Diligence_JREQ205150",
+    "external_id": "JREQ205150",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-05T23:00:23Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ205125||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---West-Coast_JREQ205125",
+    "title": "Analyst - West Coast",
+    "company": "Thomson Reuters Careers",
+    "location": "Los Angeles; Sacramento, California; McLean; Portland; Las Vegas; San Francisco; Seattle; Honolulu, Hawaii; San Diego | California; Hawaii; Washington; Virginia; Nevada; Oregon | JREQ205125",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---West-Coast_JREQ205125",
+    "external_id": "JREQ205125",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-04T22:50:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||00320-0013536446-usen||https://www.roberthalf.com/us/en/job/ventura-ca/business-analyst/00320-0013536446-usen",
+    "title": "Business Analyst",
+    "company": "Robert Half",
+    "location": "Ventura, CA",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/ventura-ca/business-analyst/00320-0013536446-usen",
+    "external_id": "00320-0013536446-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-05T17:54:19Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ205127||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---DMV_JREQ205127-1",
+    "title": "Analyst - DMV",
+    "company": "Thomson Reuters Careers",
+    "location": "Washington, DC, District of Columbia; McLean | Virginia; District of Columbia | JREQ205127",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---DMV_JREQ205127-1",
+    "external_id": "JREQ205127",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-04T22:50:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ205122||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---Midwest---South_JREQ205122-1",
+    "title": "Analyst - Midwest & South",
+    "company": "Thomson Reuters Careers",
+    "location": "San Antonio; Mobile; Chicago; St. Paul, Minnesota; Kansas City; Laredo; Tucson; Jackson, Mississippi; Tyler; Detroit; El Paso; Houston; McLean; Corpus Christi; Oklahoma City, Oklahoma; Dallas; Louisville; Scottsdale | Illinois; Michigan; Virginia; Texas; Mississippi; Kentucky; Arizona; Alabama; Missouri; Minnesota; Oklahoma | JREQ205122",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---Midwest---South_JREQ205122-1",
+    "external_id": "JREQ205122",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-04T22:50:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ205121||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---East-Coast_JREQ205121",
+    "title": "Analyst - East Coast",
+    "company": "Thomson Reuters Careers",
+    "location": "Nashville, Tennessee; Atlanta, Georgia; Baltimore; San Juan; Jacksonville; New Orleans; Charlotte; Orlando; Tampa; Miami; Raleigh, North Carolina; Boston, Massachusetts; Jackson, Mississippi; Washington, DC, District of Columbia; Newark; McLean; Buffalo; Philadelphia; Charleston; Queens | Massachusetts; Virginia; Maryland; Florida; District of Columbia; South Carolina; Pennsylvania; Georgia; North Carolina; New York; Mississippi; Louisiana; Tennessee; New Jersey | JREQ205121",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---East-Coast_JREQ205121",
+    "external_id": "JREQ205121",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-04T22:50:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||02310-0013511415-usen||https://www.roberthalf.com/us/en/job/st-paul-mn/data-engineer/02310-0013511415-usen",
+    "title": "Data Engineer",
+    "company": "Robert Half",
+    "location": "St Paul, MN",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/st-paul-mn/data-engineer/02310-0013511415-usen",
+    "external_id": "02310-0013511415-usen",
+    "matched_keywords": [
+      "data engineer",
+      "data"
+    ],
+    "first_seen": "2026-10-12T22:35:03Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ204698||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Houston-Texas/Analyst_JREQ204698",
+    "title": "Analyst",
+    "company": "Thomson Reuters Careers",
+    "location": "Houston | Texas | JREQ204698",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Houston-Texas/Analyst_JREQ204698",
+    "external_id": "JREQ204698",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-26T19:27:13Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||03190-0013534570-usen||https://www.roberthalf.com/us/en/job/charlotte-nc/sr-accounts-payable-analyst/03190-0013534570-usen",
+    "title": "Sr Accounts Payable Analyst",
+    "company": "Robert Half",
+    "location": "Charlotte, NC",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/sr-accounts-payable-analyst/03190-0013534570-usen",
+    "external_id": "03190-0013534570-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-29T20:39:21Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ204866||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst_JREQ204866",
+    "title": "Analyst",
+    "company": "Thomson Reuters Careers",
+    "location": "McLean | Virginia | JREQ204866",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst_JREQ204866",
+    "external_id": "JREQ204866",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-28T19:36:34Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||02660-0013518131-usen||https://www.roberthalf.com/us/en/job/hazlet-nj/accounting-analyst/02660-0013518131-usen",
+    "title": "Accounting Analyst",
+    "company": "Robert Half",
+    "location": "Hazlet, NJ",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/hazlet-nj/accounting-analyst/02660-0013518131-usen",
+    "external_id": "02660-0013518131-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-06T13:59:51Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": false
+  },
+  {
+    "key": "workday||Thomson Reuters Careers||JREQ204696||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Analyst_JREQ204696",
+    "title": "Analyst",
+    "company": "Thomson Reuters Careers",
+    "location": "New York | New York | JREQ204696",
+    "department": "",
+    "source_name": "Thomson Reuters Careers",
+    "source_type": "workday",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Analyst_JREQ204696",
+    "external_id": "JREQ204696",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-10T18:30:20Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": true
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5501404||https://www.governmentjobs.com/jobs/5501404-0/book-fair-analyst-data-management-analyst-non-classified",
+    "title": "Book Fair Analyst (Data Management Analyst)- Non-Classified",
+    "company": "GovernmentJobs US",
+    "location": "Denver Metro, CO",
+    "department": "State of Colorado",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5501404-0/book-fair-analyst-data-management-analyst-non-classified",
+    "external_id": "5501404",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T18:30:20Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": true
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5545662||https://www.governmentjobs.com/jobs/5545662-0/departmental-analyst-9-12-trainee-asset-data-management-analyst",
+    "title": "Departmental Analyst 9-12 (Trainee) - Asset Data Management Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Lansing, MI",
+    "department": "State of Michigan",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5545662-0/departmental-analyst-9-12-trainee-asset-data-management-analyst",
+    "external_id": "5545662",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T18:30:20Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": true
+  },
+  {
+    "key": "roberthalf||Robert Half||01720-0013540598-usen||https://www.roberthalf.com/us/en/job/louisville-ky/data-entry-clerk/01720-0013540598-usen",
+    "title": "Data Entry Clerk",
+    "company": "Robert Half",
+    "location": "Louisville, KY",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/louisville-ky/data-entry-clerk/01720-0013540598-usen",
+    "external_id": "01720-0013540598-usen",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-10T18:30:20Z",
+    "last_seen": "2026-11-10T18:30:20Z",
+    "is_new": true
   },
   {
     "key": "governmentjobs||GovernmentJobs US||5439786||https://www.governmentjobs.com/jobs/5439786-0/data-processing-analyst-continuous-9-21-26",
@@ -328,111 +1415,6 @@
     "is_new": false
   },
   {
-    "key": "governmentjobs||GovernmentJobs US||5530302||https://www.governmentjobs.com/jobs/5530302-0/data-analyst",
-    "title": "Data Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Regional Transportation Commission (RTC) Las Vegas, NV",
-    "department": "RTC of Southern Nevada",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5530302-0/data-analyst",
-    "external_id": "5530302",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-27T18:55:24Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5528907||https://www.governmentjobs.com/jobs/5528907-0/data-analytics-specialist-data-analyst-ii",
-    "title": "Data Analytics Specialist (Data Analyst II)",
-    "company": "GovernmentJobs US",
-    "location": "FAIRFAX (EJ26), VA",
-    "department": "Fairfax County",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5528907-0/data-analytics-specialist-data-analyst-ii",
-    "external_id": "5528907",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-31T06:55:14Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req0860022||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-SGTO-Software-engineering-Coe-Data_Req0860022",
-    "title": "I_SGTO_Software engineering Coe Data",
-    "company": "Santander Careers",
-    "location": "Boadilla del Monte",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-SGTO-Software-engineering-Coe-Data_Req0860022",
-    "external_id": "Req0860022",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req0904505||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-T-OCC-Data-Analyst-Information-Centre_Req0904505",
-    "title": "I_T&OCC_Data Analyst Information Centre",
-    "company": "Santander Careers",
-    "location": "Boadilla del Monte",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/I-T-OCC-Data-Analyst-Information-Centre_Req0904505",
-    "external_id": "Req0904505",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1614921||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTA-BARBARA-1/Santander-AI-Lab---Frontier-Agentic-AI-Engineer_Req1614921",
-    "title": "Santander AI Lab - Frontier Agentic AI Engineer",
-    "company": "Santander Careers",
-    "location": "SANTA BARBARA 1",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTA-BARBARA-1/Santander-AI-Lab---Frontier-Agentic-AI-Engineer_Req1614921",
-    "external_id": "Req1614921",
-    "matched_keywords": [
-      "ai engineer"
-    ],
-    "first_seen": "2026-09-23T14:27:36Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1574786||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/London/Vice-President--Quantitative-Analyst---FX-Options---SCIB_Req1574786",
-    "title": "Vice President, Quantitative Analyst – FX Options | SCIB",
-    "company": "Santander Careers",
-    "location": "London",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/London/Vice-President--Quantitative-Analyst---FX-Options---SCIB_Req1574786",
-    "external_id": "Req1574786",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-06T13:59:51Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
     "key": "workday||Santander Careers||Req1628896||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Data---Analytics-Spec-I---Modelos-estatsticos_Req1628896",
     "title": "Data & Analytics Spec I - Modelos estatísticos",
     "company": "Santander Careers",
@@ -446,287 +1428,6 @@
       "data"
     ],
     "first_seen": "2026-10-26T19:27:13Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1629914||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Lider-Data-Modelagem---Scientist_Req1629914",
-    "title": "Lider Data Modelagem - Scientist",
-    "company": "Santander Careers",
-    "location": "SAO PAULO",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Lider-Data-Modelagem---Scientist_Req1629914",
-    "external_id": "Req1629914",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-10-29T20:39:21Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1628806||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Risk-Data-Scientist-II_Req1628806",
-    "title": "Risk Data Scientist II",
-    "company": "Santander Careers",
-    "location": "SAO PAULO",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Risk-Data-Scientist-II_Req1628806",
-    "external_id": "Req1628806",
-    "matched_keywords": [
-      "data scientist",
-      "data"
-    ],
-    "first_seen": "2026-10-30T21:38:23Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||138311084216853190||https://www.kpmguscareers.com/jobdetail/?jobId=135757",
-    "title": "Associate Data Programmer, Global Trade",
-    "company": "KPMG US Careers",
-    "location": "Atlanta, GA; Boston, MA; Charlotte, NC; Dallas, TX; Denver, CO; Detroit, MI; Los Angeles, CA; McLean, VA; Morristown, NJ; New York, NY; Orlando, FL; Philadelphia, PA; Phoenix, AZ; Salt Lake City, UT; San Diego, CA; San Francisco, CA",
-    "department": "Tax",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135757",
-    "external_id": "138311084216853190",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-08-20T17:16:45Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||129189535752823494||https://www.kpmguscareers.com/jobdetail/?jobId=135758",
-    "title": "Experienced Associate - Global Trade - Data Analytics",
-    "company": "KPMG US Careers",
-    "location": "Atlanta, GA; Boston, MA; Chicago, IL; Dallas, TX; Denver, CO; Detroit, MI; Ft Lauderdale, FL; Houston, TX; Los Angeles, CA; McLean, VA; Miami, FL; Morristown, NJ; New York, NY; Orlando, FL; Philadelphia, PA; Salt Lake City, UT; San Francisco, CA; Tempe, AZ",
-    "department": "Tax",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135758",
-    "external_id": "129189535752823494",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-08-20T17:16:45Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||112063737522725574||https://www.kpmguscareers.com/jobdetail/?jobId=135884",
-    "title": "Analyst, IT Svc Management",
-    "company": "KPMG US Careers",
-    "location": "Montvale, NJ",
-    "department": "Tax",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135884",
-    "external_id": "112063737522725574",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-20T17:16:45Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||93226104378008262||https://www.kpmguscareers.com/jobdetail/?jobId=139384",
-    "title": "Analyst II - Performance Hub (Temporary)",
-    "company": "KPMG US Careers",
-    "location": "Orlando, FL",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139384",
-    "external_id": "93226104378008262",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-15T23:53:58Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||86761818625581766||https://www.kpmguscareers.com/jobdetail/?jobId=139703",
-    "title": "Specialist, Federal Data Engineer",
-    "company": "KPMG US Careers",
-    "location": "McLean, VA",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139703",
-    "external_id": "86761818625581766",
-    "matched_keywords": [
-      "data engineer",
-      "data"
-    ],
-    "first_seen": "2026-10-30T00:18:31Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||110063768553038534||https://www.kpmguscareers.com/jobdetail/?jobId=139697",
-    "title": "Associate, Federal Data Analyst",
-    "company": "KPMG US Careers",
-    "location": "McLean, VA",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139697",
-    "external_id": "110063768553038534",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-30T00:18:31Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5530294||https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
-    "title": "Data Production Analyst (AI & QA Analyst) (Information Technology Analyst 3)",
-    "company": "GovernmentJobs US",
-    "location": "Trenton, NJ",
-    "department": "New Jersey Courts",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
-    "external_id": "5530294",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-02T20:47:50Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5530263||https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
-    "title": "Data Production Analyst (QA) (Information Technology Analyst 3)",
-    "company": "GovernmentJobs US",
-    "location": "Trenton, NJ",
-    "department": "New Jersey Courts",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
-    "external_id": "5530263",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-02T20:47:50Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||94395620483048134||https://www.kpmguscareers.com/jobdetail/?jobId=139724",
-    "title": "Databricks Sales Executive (Federal sector)",
-    "company": "KPMG US Careers",
-    "location": "McLean, VA; Washington, DC",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139724",
-    "external_id": "94395620483048134",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-11-03T02:40:18Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||4543639||https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
-    "title": "AUTOMATED METERING INFRASTRUCTURE (AMI) DATA ANALYST I (CLASS CODE 3457)",
-    "company": "GovernmentJobs US",
-    "location": "New Orleans, LA",
-    "department": "City of New Orleans",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
-    "external_id": "4543639",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5195111||https://www.governmentjobs.com/jobs/5195111-0/data-analyst-medicaid-fraud-belleville-26-02",
-    "title": "Data Analyst, Medicaid Fraud, Belleville, 26-02",
-    "company": "GovernmentJobs US",
-    "location": "Belleville, IL",
-    "department": "Illinois Attorney General (IL)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5195111-0/data-analyst-medicaid-fraud-belleville-26-02",
-    "external_id": "5195111",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1630359||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MA-Wilmington/Staff--Data-Quality_Req1630359",
-    "title": "Staff, Data Quality",
-    "company": "Santander Careers",
-    "location": "MA Wilmington",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MA-Wilmington/Staff--Data-Quality_Req1630359",
-    "external_id": "Req1630359",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-11-04T17:35:34Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1630152||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152",
-    "title": "ARG JR Data Scientist",
-    "company": "Santander Careers",
-    "location": "GARAY 151 PISO 4",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152",
-    "external_id": "Req1630152",
-    "matched_keywords": [
-      "data scientist",
-      "data"
-    ],
-    "first_seen": "2026-11-04T17:35:34Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5527560||https://www.governmentjobs.com/jobs/5527560-0/departmental-analyst-e-quality-assurance-data-analyst",
-    "title": "Departmental Analyst-E, Quality Assurance Data Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Lansing, MI",
-    "department": "State of Michigan",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5527560-0/departmental-analyst-e-quality-assurance-data-analyst",
-    "external_id": "5527560",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-04T17:35:34Z",
     "last_seen": "2026-11-10T11:00:27Z",
     "is_new": false
   },
@@ -766,59 +1467,6 @@
     "is_new": false
   },
   {
-    "key": "workday||Accenture Careers Alt||Location Negotiable||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776",
-    "title": "Business Analyst - Intern",
-    "company": "Accenture Careers Alt",
-    "location": "R00279776 | Location Negotiable",
-    "department": "",
-    "source_name": "Accenture Careers Alt",
-    "source_type": "workday",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776",
-    "external_id": "Location Negotiable",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-05T17:54:19Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5533120||https://www.governmentjobs.com/jobs/5533120-0/utility-database-analyst",
-    "title": "Utility Database Analyst",
-    "company": "GovernmentJobs US",
-    "location": "City of Alameda (Alameda Municipal Power), CA",
-    "department": "City of Alameda",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5533120-0/utility-database-analyst",
-    "external_id": "5533120",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-29T20:39:21Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5540633||https://www.governmentjobs.com/jobs/5540633-0/fiscal-information-and-data-analyst-wms2-fs-internal-only",
-    "title": "Fiscal Information and Data Analyst (WMS2/FS) - Internal Only",
-    "company": "GovernmentJobs US",
-    "location": "Thurston County – Olympia, WA",
-    "department": "State of Washington",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5540633-0/fiscal-information-and-data-analyst-wms2-fs-internal-only",
-    "external_id": "5540633",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-04T22:50:34Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
     "key": "workday||Thomson Reuters Careers||JREQ204530||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Business-Analyst-GTM_JREQ204530",
     "title": "Business Analyst GTM",
     "company": "Thomson Reuters Careers",
@@ -832,23 +1480,6 @@
       "analyst"
     ],
     "first_seen": "2026-10-15T18:37:31Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||85332177826259654||https://www.kpmguscareers.com/jobdetail/?jobId=139314",
-    "title": "Trade Analyst, Shared Services - Salt Lake City",
-    "company": "KPMG US Careers",
-    "location": "Salt Lake City, UT",
-    "department": "Tax",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139314",
-    "external_id": "85332177826259654",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-14T19:27:49Z",
     "last_seen": "2026-11-10T11:00:27Z",
     "is_new": false
   },
@@ -870,167 +1501,6 @@
     "is_new": false
   },
   {
-    "key": "governmentjobs||GovernmentJobs US||5543635||https://www.governmentjobs.com/jobs/5543635-0/human-resources-data-analyst-intern",
-    "title": "Human Resources Data Analyst Intern",
-    "company": "GovernmentJobs US",
-    "location": "Ames - 50010 - Story County, IA",
-    "department": "State of Iowa",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5543635-0/human-resources-data-analyst-intern",
-    "external_id": "5543635",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-06T22:25:25Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5422019||https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
-    "title": "Data Reporting & Query Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Main Campus - Philadelphia, PA",
-    "department": "Community College of Philadelphia",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
-    "external_id": "5422019",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5534291||https://www.governmentjobs.com/jobs/5534291-0/research-data-analyst-ii",
-    "title": "Research/Data Analyst II",
-    "company": "GovernmentJobs US",
-    "location": "25 - HINDS COUNTY, MS",
-    "department": "State of Mississippi",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5534291-0/research-data-analyst-ii",
-    "external_id": "5534291",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-29T20:39:21Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5533909||https://www.governmentjobs.com/jobs/5533909-0/tax-data-information-analyst",
-    "title": "Tax Data Information Analyst*",
-    "company": "GovernmentJobs US",
-    "location": "Tax Department, NC",
-    "department": "Orange County Government",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5533909-0/tax-data-information-analyst",
-    "external_id": "5533909",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-03T17:44:30Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5453248||https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
-    "title": "Data Analyst, Principal",
-    "company": "GovernmentJobs US",
-    "location": "Atlanta, GA 30303",
-    "department": "Atlanta Regional Commission (ARC)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
-    "external_id": "5453248",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-19T13:52:10Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||4775405||https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
-    "title": "PREDICTIVE DATA ANALYST / EMERGENCY APPOINTMENT HOMELESSNESS",
-    "company": "GovernmentJobs US",
-    "location": "Los Angeles County, CA",
-    "department": "County of Los Angeles",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
-    "external_id": "4775405",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Intel Careers||JR0286800||https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Database-Administrator-PL-SQL-Developer_JR0286800",
-    "title": "Database Administrator PL/SQL Developer",
-    "company": "Intel Careers",
-    "location": "2 Locations",
-    "department": "",
-    "source_name": "Intel Careers",
-    "source_type": "workday",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Database-Administrator-PL-SQL-Developer_JR0286800",
-    "external_id": "JR0286800",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-09-07T18:22:04Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5195206||https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
-    "title": "Data Analyst, Medicaid Fraud, Oakbrook, 26-01",
-    "company": "GovernmentJobs US",
-    "location": "Oakbrook, IL",
-    "department": "Illinois Attorney General (IL)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
-    "external_id": "5195206",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||152614||https://www.governmentjobs.com/jobs/152614-1/data-quality-analyst",
-    "title": "Data Quality Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Portland, OR",
-    "department": "U.S. District Court, District of Oregon",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/152614-1/data-quality-analyst",
-    "external_id": "152614",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-23T19:19:58Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
     "key": "workday||Accenture Careers Alt||Torino||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Torino/Neolaureati---Consulting-Analyst_R00295295",
     "title": "Neolaureat* - Business Analyst Automotive",
     "company": "Accenture Careers Alt",
@@ -1044,60 +1514,6 @@
       "analyst"
     ],
     "first_seen": "2026-11-02T20:47:50Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||152947||https://www.governmentjobs.com/jobs/152947-1/data-analyst-107759",
-    "title": "Data Analyst (107759)",
-    "company": "GovernmentJobs US",
-    "location": "Austin, TX",
-    "department": "Employees Retirement System of Texas",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/152947-1/data-analyst-107759",
-    "external_id": "152947",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-30T17:25:23Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5489943||https://www.governmentjobs.com/jobs/5489943-0/quality-management-system-data-analyst",
-    "title": "Quality Management System Data Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Des Moines - 50319 - Polk County, IA",
-    "department": "State of Iowa",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5489943-0/quality-management-system-data-analyst",
-    "external_id": "5489943",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-09-22T15:43:54Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5388193||https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
-    "title": "Institutional Research Strategic Data Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Zanesville Campus, OH",
-    "department": "Zane State College",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
-    "external_id": "5388193",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
     "last_seen": "2026-11-10T11:00:27Z",
     "is_new": false
   },
@@ -1120,59 +1536,6 @@
     "is_new": false
   },
   {
-    "key": "governmentjobs||GovernmentJobs US||5195097||https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
-    "title": "Data Analyst, Medicaid Fraud, Springfield, 26-03",
-    "company": "GovernmentJobs US",
-    "location": "Springfield, IL",
-    "department": "Illinois Attorney General (IL)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
-    "external_id": "5195097",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Accenture Careers Alt||Location Negotiable||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw-Sienna-39/Snowflake-Solution-Architect--AI-Data--Fluent-in-data-modeling_R00368797",
-    "title": "Snowflake Solution Architect (AI&Data)",
-    "company": "Accenture Careers Alt",
-    "location": "R00368797 | Location Negotiable",
-    "department": "",
-    "source_name": "Accenture Careers Alt",
-    "source_type": "workday",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Warsaw-Sienna-39/Snowflake-Solution-Architect--AI-Data--Fluent-in-data-modeling_R00368797",
-    "external_id": "Location Negotiable",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-11-03T22:33:07Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Santander Careers||Req1629700||https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Data-Scientist-Spec-II_Req1629700",
-    "title": "Data Scientist Spec II",
-    "company": "Santander Careers",
-    "location": "SAO PAULO",
-    "department": "",
-    "source_name": "Santander Careers",
-    "source_type": "workday",
-    "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Data-Scientist-Spec-II_Req1629700",
-    "external_id": "Req1629700",
-    "matched_keywords": [
-      "data scientist",
-      "data"
-    ],
-    "first_seen": "2026-11-09T20:53:47Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
     "key": "workday||Thomson Reuters Careers||JREQ204375||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst-I_JREQ204375",
     "title": "Analyst I",
     "company": "Thomson Reuters Careers",
@@ -1184,24 +1547,6 @@
     "external_id": "JREQ204375",
     "matched_keywords": [
       "analyst"
-    ],
-    "first_seen": "2026-11-09T20:53:47Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Accenture Careers Alt||Krakow, High 5Ive Development||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Analyst--with-Italian_R00362250",
-    "title": "Content Moderator (Junior Data Analyst) with Italian",
-    "company": "Accenture Careers Alt",
-    "location": "R00362250 | Krakow, High 5Ive Development",
-    "department": "",
-    "source_name": "Accenture Careers Alt",
-    "source_type": "workday",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Krakow-High-5ive-Development/Content-Moderator--Junior-Data-Analyst--with-Italian_R00362250",
-    "external_id": "Krakow, High 5Ive Development",
-    "matched_keywords": [
-      "analyst",
-      "data"
     ],
     "first_seen": "2026-11-09T20:53:47Z",
     "last_seen": "2026-11-10T11:00:27Z",
@@ -1294,42 +1639,6 @@
     "is_new": false
   },
   {
-    "key": "governmentjobs||GovernmentJobs US||5445676||https://www.governmentjobs.com/jobs/5445676-0/data-analyst-intern-unpaid-intern",
-    "title": "Data Analyst Intern (Unpaid Intern)",
-    "company": "GovernmentJobs US",
-    "location": "Santa Ana, CA",
-    "department": "County of Orange",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5445676-0/data-analyst-intern-unpaid-intern",
-    "external_id": "5445676",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-17T17:37:49Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5525538||https://www.governmentjobs.com/jobs/5525538-0/data-analyst-intern-admin-intern-nc",
-    "title": "DATA ANALYST INTERN (ADMIN INTERN - NC)",
-    "company": "GovernmentJobs US",
-    "location": "City of Long Beach, CA",
-    "department": "City of Long Beach",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5525538-0/data-analyst-intern-admin-intern-nc",
-    "external_id": "5525538",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T03:03:13Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
     "key": "governmentjobs||GovernmentJobs US||5541177||https://www.governmentjobs.com/jobs/5541177-0/database-administrator-1",
     "title": "Database Administrator 1",
     "company": "GovernmentJobs US",
@@ -1339,23 +1648,6 @@
     "source_type": "governmentjobs",
     "url": "https://www.governmentjobs.com/jobs/5541177-0/database-administrator-1",
     "external_id": "5541177",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-11-10T03:03:13Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||00240-9504425252-usen||https://www.roberthalf.com/us/en/job/oceanside-ca/data-entry-clerk/00240-9504425252-usen",
-    "title": "Data Entry Clerk",
-    "company": "Robert Half",
-    "location": "Oceanside, CA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/oceanside-ca/data-entry-clerk/00240-9504425252-usen",
-    "external_id": "00240-9504425252-usen",
     "matched_keywords": [
       "data"
     ],
@@ -1415,23 +1707,6 @@
     "is_new": false
   },
   {
-    "key": "roberthalf||Robert Half||31000-0013534922-usen||https://www.roberthalf.com/us/en/job/bohemia-ny/marketing-analyst/31000-0013534922-usen",
-    "title": "Marketing Analyst",
-    "company": "Robert Half",
-    "location": "Bohemia, NY",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/bohemia-ny/marketing-analyst/31000-0013534922-usen",
-    "external_id": "31000-0013534922-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-04T17:35:34Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": false
-  },
-  {
     "key": "workday||Intel Careers||JR0289064||https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shenzhen/APJ-Edge-Revenue-Analyst_JR0289064",
     "title": "APJ Edge Revenue Analyst",
     "company": "Intel Careers",
@@ -1441,23 +1716,6 @@
     "source_type": "workday",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shenzhen/APJ-Edge-Revenue-Analyst_JR0289064",
     "external_id": "JR0289064",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-10T11:00:27Z",
-    "last_seen": "2026-11-10T11:00:27Z",
-    "is_new": true
-  },
-  {
-    "key": "roberthalf||Robert Half||00412-9504425279-usen||https://www.roberthalf.com/us/en/job/san-ramon-ca/trader-analyst-path-for-ria-firm/00412-9504425279-usen",
-    "title": "Trader - Analyst Path for RIA Firm!",
-    "company": "Robert Half",
-    "location": "San Ramon, CA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/san-ramon-ca/trader-analyst-path-for-ria-firm/00412-9504425279-usen",
-    "external_id": "00412-9504425279-usen",
     "matched_keywords": [
       "analyst"
     ],
@@ -1844,23 +2102,6 @@
     "is_new": false
   },
   {
-    "key": "workday||Thomson Reuters Careers||JREQ205150||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Analyst--Third-Party-Diligence_JREQ205150",
-    "title": "Associate Analyst, Third Party Diligence",
-    "company": "Thomson Reuters Careers",
-    "location": "Frisco; Eagan; Ann Arbor | Texas; Michigan; Minnesota | JREQ205150",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Analyst--Third-Party-Diligence_JREQ205150",
-    "external_id": "JREQ205150",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-05T23:00:23Z",
-    "last_seen": "2026-11-09T10:23:19Z",
-    "is_new": false
-  },
-  {
     "key": "roberthalf||Robert Half||00240-9504424592-usen||https://www.roberthalf.com/us/en/job/san-marcos-ca/data-entry-specialist/00240-9504424592-usen",
     "title": "Data Entry Specialist",
     "company": "Robert Half",
@@ -2113,23 +2354,6 @@
       "data"
     ],
     "first_seen": "2026-11-07T22:51:31Z",
-    "last_seen": "2026-11-09T02:41:02Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Thomson Reuters Careers||JREQ205125||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---West-Coast_JREQ205125",
-    "title": "Analyst - West Coast",
-    "company": "Thomson Reuters Careers",
-    "location": "Los Angeles; Sacramento, California; McLean; Portland; Las Vegas; San Francisco; Seattle; Honolulu, Hawaii; San Diego | California; Hawaii; Washington; Virginia; Nevada; Oregon | JREQ205125",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---West-Coast_JREQ205125",
-    "external_id": "JREQ205125",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-04T22:50:34Z",
     "last_seen": "2026-11-09T02:41:02Z",
     "is_new": false
   },
@@ -2408,23 +2632,6 @@
     "is_new": false
   },
   {
-    "key": "roberthalf||Robert Half||00320-0013536446-usen||https://www.roberthalf.com/us/en/job/ventura-ca/business-analyst/00320-0013536446-usen",
-    "title": "Business Analyst",
-    "company": "Robert Half",
-    "location": "Ventura, CA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/ventura-ca/business-analyst/00320-0013536446-usen",
-    "external_id": "00320-0013536446-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-05T17:54:19Z",
-    "last_seen": "2026-11-06T22:25:25Z",
-    "is_new": false
-  },
-  {
     "key": "roberthalf||Robert Half||00720-0013524095-usen||https://www.roberthalf.com/us/en/job/stamford-ct/financial-analyst-entry-level/00720-0013524095-usen",
     "title": "Financial Analyst - Entry Level",
     "company": "Robert Half",
@@ -2512,40 +2719,6 @@
     "is_new": false
   },
   {
-    "key": "workday||Thomson Reuters Careers||JREQ205127||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---DMV_JREQ205127-1",
-    "title": "Analyst - DMV",
-    "company": "Thomson Reuters Careers",
-    "location": "Washington, DC, District of Columbia; McLean | Virginia; District of Columbia | JREQ205127",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---DMV_JREQ205127-1",
-    "external_id": "JREQ205127",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-04T22:50:34Z",
-    "last_seen": "2026-11-06T17:45:00Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Thomson Reuters Careers||JREQ205122||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---Midwest---South_JREQ205122-1",
-    "title": "Analyst - Midwest & South",
-    "company": "Thomson Reuters Careers",
-    "location": "San Antonio; Mobile; Chicago; St. Paul, Minnesota; Kansas City; Laredo; Tucson; Jackson, Mississippi; Tyler; Detroit; El Paso; Houston; McLean; Corpus Christi; Oklahoma City, Oklahoma; Dallas; Louisville; Scottsdale | Illinois; Michigan; Virginia; Texas; Mississippi; Kentucky; Arizona; Alabama; Missouri; Minnesota; Oklahoma | JREQ205122",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---Midwest---South_JREQ205122-1",
-    "external_id": "JREQ205122",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-04T22:50:34Z",
-    "last_seen": "2026-11-06T17:45:00Z",
-    "is_new": false
-  },
-  {
     "key": "kpmg||KPMG US Careers||102992430512382662||https://www.kpmguscareers.com/jobdetail/?jobId=139301",
     "title": "Trade Analyst, Shared Services - Orlando",
     "company": "KPMG US Careers",
@@ -2576,23 +2749,6 @@
       "analyst"
     ],
     "first_seen": "2026-09-15T18:39:09Z",
-    "last_seen": "2026-11-06T10:56:09Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Thomson Reuters Careers||JREQ205121||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---East-Coast_JREQ205121",
-    "title": "Analyst - East Coast",
-    "company": "Thomson Reuters Careers",
-    "location": "Nashville, Tennessee; Atlanta, Georgia; Baltimore; San Juan; Jacksonville; New Orleans; Charlotte; Orlando; Tampa; Miami; Raleigh, North Carolina; Boston, Massachusetts; Jackson, Mississippi; Washington, DC, District of Columbia; Newark; McLean; Buffalo; Philadelphia; Charleston; Queens | Massachusetts; Virginia; Maryland; Florida; District of Columbia; South Carolina; Pennsylvania; Georgia; North Carolina; New York; Mississippi; Louisiana; Tennessee; New Jersey | JREQ205121",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst---East-Coast_JREQ205121",
-    "external_id": "JREQ205121",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-04T22:50:34Z",
     "last_seen": "2026-11-06T10:56:09Z",
     "is_new": false
   },
@@ -2782,24 +2938,6 @@
       "data"
     ],
     "first_seen": "2026-10-28T14:16:50Z",
-    "last_seen": "2026-11-05T23:00:23Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||02310-0013511415-usen||https://www.roberthalf.com/us/en/job/st-paul-mn/data-engineer/02310-0013511415-usen",
-    "title": "Data Engineer",
-    "company": "Robert Half",
-    "location": "St Paul, MN",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/st-paul-mn/data-engineer/02310-0013511415-usen",
-    "external_id": "02310-0013511415-usen",
-    "matched_keywords": [
-      "data engineer",
-      "data"
-    ],
-    "first_seen": "2026-10-12T22:35:03Z",
     "last_seen": "2026-11-05T23:00:23Z",
     "is_new": false
   },
@@ -3111,23 +3249,6 @@
     ],
     "first_seen": "2026-10-16T12:17:53Z",
     "last_seen": "2026-11-05T02:53:02Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Thomson Reuters Careers||JREQ204698||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Houston-Texas/Analyst_JREQ204698",
-    "title": "Analyst",
-    "company": "Thomson Reuters Careers",
-    "location": "Houston | Texas | JREQ204698",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Houston-Texas/Analyst_JREQ204698",
-    "external_id": "JREQ204698",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-26T19:27:13Z",
-    "last_seen": "2026-11-04T22:50:34Z",
     "is_new": false
   },
   {
@@ -4641,23 +4762,6 @@
     "is_new": false
   },
   {
-    "key": "roberthalf||Robert Half||03190-0013534570-usen||https://www.roberthalf.com/us/en/job/charlotte-nc/sr-accounts-payable-analyst/03190-0013534570-usen",
-    "title": "Sr Accounts Payable Analyst",
-    "company": "Robert Half",
-    "location": "Charlotte, NC",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/sr-accounts-payable-analyst/03190-0013534570-usen",
-    "external_id": "03190-0013534570-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-29T20:39:21Z",
-    "last_seen": "2026-10-29T20:39:21Z",
-    "is_new": true
-  },
-  {
     "key": "roberthalf||Robert Half||01090-0013534574-usen||https://www.roberthalf.com/us/en/job/boca-raton-fl/financial-analyst/01090-0013534574-usen",
     "title": "Financial Analyst",
     "company": "Robert Half",
@@ -4740,23 +4844,6 @@
     ],
     "first_seen": "2026-09-22T06:16:36Z",
     "last_seen": "2026-10-29T15:43:04Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Thomson Reuters Careers||JREQ204866||https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst_JREQ204866",
-    "title": "Analyst",
-    "company": "Thomson Reuters Careers",
-    "location": "McLean | Virginia | JREQ204866",
-    "department": "",
-    "source_name": "Thomson Reuters Careers",
-    "source_type": "workday",
-    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-McLean-Virginia/Analyst_JREQ204866",
-    "external_id": "JREQ204866",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-28T19:36:34Z",
-    "last_seen": "2026-10-29T08:53:43Z",
     "is_new": false
   },
   {
@@ -9717,23 +9804,6 @@
       "data"
     ],
     "first_seen": "2026-10-13T03:09:10Z",
-    "last_seen": "2026-10-13T10:27:34Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||02660-0013518131-usen||https://www.roberthalf.com/us/en/job/hazlet-nj/accounting-analyst/02660-0013518131-usen",
-    "title": "Accounting Analyst",
-    "company": "Robert Half",
-    "location": "Hazlet, NJ",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/hazlet-nj/accounting-analyst/02660-0013518131-usen",
-    "external_id": "02660-0013518131-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-06T13:59:51Z",
     "last_seen": "2026-10-13T10:27:34Z",
     "is_new": false
   },
@@ -24452,160 +24522,6 @@
     ],
     "first_seen": "2026-08-12T16:30:15Z",
     "last_seen": "2026-08-12T22:32:23Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Accenture Careers Alt||São Paulo - Barueri||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Sales-Development-Rep-Analyst---Espanhol_R00327736-1",
-    "title": "Sales Development Rep Analyst | Espanhol",
-    "company": "Accenture Careers Alt",
-    "location": "R00327736 | São Paulo - Barueri",
-    "department": "",
-    "source_name": "Accenture Careers Alt",
-    "source_type": "workday",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/So-Paulo---Barueri/Sales-Development-Rep-Analyst---Espanhol_R00327736-1",
-    "external_id": "São Paulo - Barueri",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-10T13:51:37Z",
-    "last_seen": "2026-08-12T15:33:31Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5422433||https://www.governmentjobs.com/jobs/5422433-0/general-professional-iv-med-quest-data-analyst-ewa-oahu",
-    "title": "GENERAL PROFESSIONAL IV (MED-QUEST DATA ANALYST) - EWA, OAHU",
-    "company": "GovernmentJobs US",
-    "location": "Island of Oahu",
-    "department": "State of Hawai'i",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5422433-0/general-professional-iv-med-quest-data-analyst-ewa-oahu",
-    "external_id": "5422433",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T06:35:05Z",
-    "last_seen": "2026-08-12T15:33:31Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||00920-0013484516-usen||https://www.roberthalf.com/us/en/job/lithonia-ga/help-deskdesktop-support-analyst/00920-0013484516-usen",
-    "title": "Help Desk/Desktop Support Analyst",
-    "company": "Robert Half",
-    "location": "Lithonia, GA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/lithonia-ga/help-deskdesktop-support-analyst/00920-0013484516-usen",
-    "external_id": "00920-0013484516-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-12T13:37:09Z",
-    "last_seen": "2026-08-12T15:33:31Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||00900-0013485788-usen||https://www.roberthalf.com/us/en/job/tuskegee-institute-al/it-enterprise-analyst/00900-0013485788-usen",
-    "title": "IT Enterprise Analyst",
-    "company": "Robert Half",
-    "location": "Tuskegee Institute, AL",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/tuskegee-institute-al/it-enterprise-analyst/00900-0013485788-usen",
-    "external_id": "00900-0013485788-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-12T13:37:09Z",
-    "last_seen": "2026-08-12T15:33:31Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||03190-0013481368-usen||https://www.roberthalf.com/us/en/job/charlotte-nc/financial-analyst/03190-0013481368-usen",
-    "title": "Financial Analyst",
-    "company": "Robert Half",
-    "location": "Charlotte, NC",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/financial-analyst/03190-0013481368-usen",
-    "external_id": "03190-0013481368-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-07T16:13:59Z",
-    "last_seen": "2026-08-12T14:39:23Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||04620-0013487174-usen||https://www.roberthalf.com/us/en/job/appleton-wi/data-architect-gcp/04620-0013487174-usen",
-    "title": "Data Architect (GCP)",
-    "company": "Robert Half",
-    "location": "Appleton, WI",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/appleton-wi/data-architect-gcp/04620-0013487174-usen",
-    "external_id": "04620-0013487174-usen",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-08-12T08:04:42Z",
-    "last_seen": "2026-08-12T13:37:09Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||01070-0013400603-usen||https://www.roberthalf.com/us/en/job/saint-petersburg-fl/tyler-munis-erp-analyst/01070-0013400603-usen",
-    "title": "Tyler Munis ERP Analyst",
-    "company": "Robert Half",
-    "location": "Saint Petersburg, FL",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/saint-petersburg-fl/tyler-munis-erp-analyst/01070-0013400603-usen",
-    "external_id": "01070-0013400603-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-12T13:37:09Z",
-    "last_seen": "2026-08-12T13:37:09Z",
-    "is_new": true
-  },
-  {
-    "key": "roberthalf||Robert Half||03930-0013422822-usen||https://www.roberthalf.com/us/en/job/nashville-tn/service-support-analyst/03930-0013422822-usen",
-    "title": "Service Support Analyst",
-    "company": "Robert Half",
-    "location": "Nashville, TN",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/nashville-tn/service-support-analyst/03930-0013422822-usen",
-    "external_id": "03930-0013422822-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-12T13:37:09Z",
-    "last_seen": "2026-08-12T13:37:09Z",
-    "is_new": true
-  },
-  {
-    "key": "roberthalf||Robert Half||01720-0013486603-usen||https://www.roberthalf.com/us/en/job/louisville-ky/financial-analyst/01720-0013486603-usen",
-    "title": "Financial Analyst",
-    "company": "Robert Half",
-    "location": "Louisville, KY",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/louisville-ky/financial-analyst/01720-0013486603-usen",
-    "external_id": "01720-0013486603-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-11T15:27:10Z",
-    "last_seen": "2026-08-12T12:05:54Z",
     "is_new": false
   }
 ]
