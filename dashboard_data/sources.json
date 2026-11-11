@@ -3,10 +3,10 @@
     "name": "Cascade Financial Services",
     "type": "greenhouse",
     "status": "healthy",
-    "jobs_fetched": 2,
+    "jobs_fetched": 3,
     "jobs_matched": 0,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 121,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 154,
     "error": null
   },
   {
@@ -15,8 +15,8 @@
     "status": "warning",
     "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 679,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 623,
     "error": null
   },
   {
@@ -25,8 +25,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 2,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 1113,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 1149,
     "error": null
   },
   {
@@ -35,8 +35,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 9,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 3537,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 3265,
     "error": null
   },
   {
@@ -45,8 +45,8 @@
     "status": "healthy",
     "jobs_fetched": 15,
     "jobs_matched": 0,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 336,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 399,
     "error": null
   },
   {
@@ -55,8 +55,8 @@
     "status": "healthy",
     "jobs_fetched": 12,
     "jobs_matched": 0,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 61,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 101,
     "error": null
   },
   {
@@ -65,8 +65,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 0,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 1563,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 1526,
     "error": null
   },
   {
@@ -75,8 +75,8 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 1,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 1934,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 1868,
     "error": null
   },
   {
@@ -84,9 +84,9 @@
     "type": "workday",
     "status": "healthy",
     "jobs_fetched": 40,
-    "jobs_matched": 2,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 2117,
+    "jobs_matched": 1,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 2041,
     "error": null
   },
   {
@@ -95,18 +95,18 @@
     "status": "healthy",
     "jobs_fetched": 40,
     "jobs_matched": 5,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 4024,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 4473,
     "error": null
   },
   {
     "name": "Doximity Careers",
     "type": "greenhouse",
     "status": "healthy",
-    "jobs_fetched": 13,
+    "jobs_fetched": 14,
     "jobs_matched": 2,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 60,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 79,
     "error": null
   },
   {
@@ -115,8 +115,8 @@
     "status": "healthy",
     "jobs_fetched": 138,
     "jobs_matched": 8,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 226,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 334,
     "error": null
   },
   {
@@ -125,28 +125,28 @@
     "status": "healthy",
     "jobs_fetched": 30,
     "jobs_matched": 26,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 37900,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 37571,
     "error": null
   },
   {
     "name": "Robert Half",
     "type": "roberthalf",
     "status": "healthy",
-    "jobs_fetched": 106,
-    "jobs_matched": 4,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 17511,
+    "jobs_fetched": 88,
+    "jobs_matched": 2,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 15110,
     "error": null
   },
   {
     "name": "Advantest Careers",
     "type": "adp",
     "status": "healthy",
-    "jobs_fetched": 284,
+    "jobs_fetched": 281,
     "jobs_matched": 5,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 7520,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 3886,
     "error": null
   },
   {
@@ -155,8 +155,8 @@
     "status": "healthy",
     "jobs_fetched": 180,
     "jobs_matched": 6,
-    "last_scan": "2026-11-11T17:57:55Z",
-    "duration_ms": 11347,
+    "last_scan": "2026-11-11T23:58:09Z",
+    "duration_ms": 13438,
     "error": null
   }
 ]
