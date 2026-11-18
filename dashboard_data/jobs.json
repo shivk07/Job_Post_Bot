@@ -13,7 +13,7 @@
       "machine learning"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -30,7 +30,7 @@
       "machine learning"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -47,7 +47,7 @@
       "data"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -64,7 +64,7 @@
       "data"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -81,7 +81,7 @@
       "machine learning"
     ],
     "first_seen": "2026-09-08T21:22:44Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -98,7 +98,7 @@
       "machine learning"
     ],
     "first_seen": "2026-09-17T15:01:38Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -116,7 +116,7 @@
       "data"
     ],
     "first_seen": "2026-09-29T18:45:24Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -133,7 +133,7 @@
       "analyst"
     ],
     "first_seen": "2026-10-09T17:14:49Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -150,7 +150,7 @@
       "machine learning"
     ],
     "first_seen": "2026-10-13T17:42:11Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
   },
   {
@@ -168,8 +168,733 @@
       "data"
     ],
     "first_seen": "2026-10-14T22:27:48Z",
-    "last_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
     "is_new": false
+  },
+  {
+    "key": "adp||Advantest Careers||5001227837306||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837306",
+    "title": "Software Engineer Java – IDE, Infrastructure and Data",
+    "company": "Advantest Careers",
+    "location": "India",
+    "department": "",
+    "source_name": "Advantest Careers",
+    "source_type": "adp",
+    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837306",
+    "external_id": "5001227837306",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-09-28T15:56:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "adp||Advantest Careers||5001227837500||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837500",
+    "title": "Software Engineer Java – IDE, Infrastructure and Data",
+    "company": "Advantest Careers",
+    "location": "India",
+    "department": "",
+    "source_name": "Advantest Careers",
+    "source_type": "adp",
+    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837500",
+    "external_id": "5001227837500",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-09-28T15:56:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "adp||Advantest Careers||5001220947200||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001220947200",
+    "title": "Global Data Analyst (m/f/d)",
+    "company": "Advantest Careers",
+    "location": "Boeblingen, Germany",
+    "department": "",
+    "source_name": "Advantest Careers",
+    "source_type": "adp",
+    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001220947200",
+    "external_id": "5001220947200",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-09T10:52:50Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "adp||Advantest Careers||5001228833100||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001228833100",
+    "title": "Planning Analyst Intern",
+    "company": "Advantest Careers",
+    "location": "Texas, United States",
+    "department": "",
+    "source_name": "Advantest Careers",
+    "source_type": "adp",
+    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001228833100",
+    "external_id": "5001228833100",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-23T19:19:58Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5530294||https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
+    "title": "Data Production Analyst (AI & QA Analyst) (Information Technology Analyst 3)",
+    "company": "GovernmentJobs US",
+    "location": "Trenton, NJ",
+    "department": "New Jersey Courts",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
+    "external_id": "5530294",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-02T20:47:50Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5530263||https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
+    "title": "Data Production Analyst (QA) (Information Technology Analyst 3)",
+    "company": "GovernmentJobs US",
+    "location": "Trenton, NJ",
+    "department": "New Jersey Courts",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
+    "external_id": "5530263",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-02T20:47:50Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5422019||https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
+    "title": "Data Reporting & Query Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Main Campus - Philadelphia, PA",
+    "department": "Community College of Philadelphia",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
+    "external_id": "5422019",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5453248||https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
+    "title": "Data Analyst, Principal",
+    "company": "GovernmentJobs US",
+    "location": "Atlanta, GA 30303",
+    "department": "Atlanta Regional Commission (ARC)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
+    "external_id": "5453248",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-19T13:52:10Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5388193||https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
+    "title": "Institutional Research Strategic Data Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Zanesville Campus, OH",
+    "department": "Zane State College",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
+    "external_id": "5388193",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5501404||https://www.governmentjobs.com/jobs/5501404-0/book-fair-analyst-data-management-analyst-non-classified",
+    "title": "Book Fair Analyst (Data Management Analyst)- Non-Classified",
+    "company": "GovernmentJobs US",
+    "location": "Denver Metro, CO",
+    "department": "State of Colorado",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5501404-0/book-fair-analyst-data-management-analyst-non-classified",
+    "external_id": "5501404",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T18:30:20Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5545662||https://www.governmentjobs.com/jobs/5545662-0/departmental-analyst-9-12-trainee-asset-data-management-analyst",
+    "title": "Departmental Analyst 9-12 (Trainee) - Asset Data Management Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Lansing, MI",
+    "department": "State of Michigan",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5545662-0/departmental-analyst-9-12-trainee-asset-data-management-analyst",
+    "external_id": "5545662",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T18:30:20Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5544662||https://www.governmentjobs.com/jobs/5544662-0/data-analyst-i-fso",
+    "title": "Data Analyst I - FSO",
+    "company": "GovernmentJobs US",
+    "location": "Boise City Hall, ID",
+    "department": "City of Boise",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5544662-0/data-analyst-i-fso",
+    "external_id": "5544662",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T23:38:45Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5545958||https://www.governmentjobs.com/jobs/5545958-0/hcbs-data-analyst-2026-02711",
+    "title": "HCBS Data Analyst 2026-02711",
+    "company": "GovernmentJobs US",
+    "location": "Cheyenne, WY",
+    "department": "State of Wyoming",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5545958-0/hcbs-data-analyst-2026-02711",
+    "external_id": "5545958",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T23:38:45Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5546093||https://www.governmentjobs.com/jobs/5546093-0/research-data-analyst-i",
+    "title": "Research/Data Analyst I",
+    "company": "GovernmentJobs US",
+    "location": "25 - HINDS COUNTY, MS",
+    "department": "State of Mississippi",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5546093-0/research-data-analyst-i",
+    "external_id": "5546093",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-12T13:55:18Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5195097||https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
+    "title": "Data Analyst, Medicaid Fraud, Springfield, 26-03",
+    "company": "GovernmentJobs US",
+    "location": "Springfield, IL",
+    "department": "Illinois Attorney General (IL)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
+    "external_id": "5195097",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5195206||https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
+    "title": "Data Analyst, Medicaid Fraud, Oakbrook, 26-01",
+    "company": "GovernmentJobs US",
+    "location": "Oakbrook, IL",
+    "department": "Illinois Attorney General (IL)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
+    "external_id": "5195206",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5547807||https://www.governmentjobs.com/jobs/5547807-0/data-analyst-dpw-grounds-admin",
+    "title": "Data Analyst - DPW Grounds - Admin",
+    "company": "GovernmentJobs US",
+    "location": "City County Building, IN",
+    "department": "City of Indianapolis and Marion County",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5547807-0/data-analyst-dpw-grounds-admin",
+    "external_id": "5547807",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-12T21:14:10Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5546680||https://www.governmentjobs.com/jobs/5546680-0/data-and-performance-analyst",
+    "title": "Data and Performance Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Seattle, WA",
+    "department": "City of Seattle",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5546680-0/data-and-performance-analyst",
+    "external_id": "5546680",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T23:38:45Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5546819||https://www.governmentjobs.com/jobs/5546819-0/data-reporting-analyst-special-project-worker",
+    "title": "Data Reporting Analyst (Special Project Worker)",
+    "company": "GovernmentJobs US",
+    "location": "Austin, TX",
+    "department": "Travis County",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5546819-0/data-reporting-analyst-special-project-worker",
+    "external_id": "5546819",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-10T23:38:45Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||4775405||https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
+    "title": "PREDICTIVE DATA ANALYST / EMERGENCY APPOINTMENT HOMELESSNESS",
+    "company": "GovernmentJobs US",
+    "location": "Los Angeles County, CA",
+    "department": "County of Los Angeles",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
+    "external_id": "4775405",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5548125||https://www.governmentjobs.com/jobs/5548125-0/fraud-data-integrity-specialist-management-analyst-4",
+    "title": "Fraud & Data Integrity Specialist (Management Analyst 4)",
+    "company": "GovernmentJobs US",
+    "location": "Thurston County – Tumwater, WA",
+    "department": "State of Washington",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5548125-0/fraud-data-integrity-specialist-management-analyst-4",
+    "external_id": "5548125",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-14T02:27:54Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5544426||https://www.governmentjobs.com/jobs/5544426-0/data-center-environmental-analyst-trainee",
+    "title": "Data Center Environmental Analyst Trainee*",
+    "company": "GovernmentJobs US",
+    "location": "Throughout San Bernardino County, CA",
+    "department": "San Bernardino County",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5544426-0/data-center-environmental-analyst-trainee",
+    "external_id": "5544426",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-14T09:13:10Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||4543639||https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
+    "title": "AUTOMATED METERING INFRASTRUCTURE (AMI) DATA ANALYST I (CLASS CODE 3457)",
+    "company": "GovernmentJobs US",
+    "location": "New Orleans, LA",
+    "department": "City of New Orleans",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
+    "external_id": "4543639",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5439786||https://www.governmentjobs.com/jobs/5439786-0/data-processing-analyst-continuous-9-21-26",
+    "title": "Data Processing Analyst (Continuous 9/21/26)",
+    "company": "GovernmentJobs US",
+    "location": "St. Thomas/ St. John, VI",
+    "department": "Government of the Virgin Islands",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5439786-0/data-processing-analyst-continuous-9-21-26",
+    "external_id": "5439786",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-09-21T22:43:17Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||4543757||https://www.governmentjobs.com/jobs/4543757-0/automated-metering-infrastructure-ami-data-analyst-ii-class-code-3458",
+    "title": "AUTOMATED METERING INFRASTRUCTURE (AMI) DATA ANALYST II (CLASS CODE 3458)",
+    "company": "GovernmentJobs US",
+    "location": "New Orleans, LA",
+    "department": "City of New Orleans",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/4543757-0/automated-metering-infrastructure-ami-data-analyst-ii-class-code-3458",
+    "external_id": "4543757",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-08-07T01:13:02Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5551133||https://www.governmentjobs.com/jobs/5551133-0/departmental-analyst-9-12-data-and-technical-training-analyst",
+    "title": "Departmental Analyst 9-12 - Data and Technical Training Analyst",
+    "company": "GovernmentJobs US",
+    "location": "Detroit, MI",
+    "department": "State of Michigan",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5551133-0/departmental-analyst-9-12-data-and-technical-training-analyst",
+    "external_id": "5551133",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-17T19:52:10Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||01200-0013516338-usen||https://www.roberthalf.com/us/en/job/honolulu-hi/financial-analyst-entry-level/01200-0013516338-usen",
+    "title": "Financial Analyst - Entry Level",
+    "company": "Robert Half",
+    "location": "Honolulu, HI",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/honolulu-hi/financial-analyst-entry-level/01200-0013516338-usen",
+    "external_id": "01200-0013516338-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-09T03:32:48Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||01040-0013544801-usen||https://www.roberthalf.com/us/en/job/riviera-beach-fl/data-entry-clerk/01040-0013544801-usen",
+    "title": "Data Entry Clerk",
+    "company": "Robert Half",
+    "location": "Riviera Beach, FL",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/riviera-beach-fl/data-entry-clerk/01040-0013544801-usen",
+    "external_id": "01040-0013544801-usen",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-18T09:32:08Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||129189535752823494||https://www.kpmguscareers.com/jobdetail/?jobId=135758",
+    "title": "Experienced Associate - Global Trade - Data Analytics",
+    "company": "KPMG US Careers",
+    "location": "Atlanta, GA; Boston, MA; Chicago, IL; Dallas, TX; Denver, CO; Detroit, MI; Ft Lauderdale, FL; Houston, TX; Los Angeles, CA; McLean, VA; Miami, FL; Morristown, NJ; New York, NY; Orlando, FL; Philadelphia, PA; Salt Lake City, UT; San Francisco, CA; Tempe, AZ",
+    "department": "Tax",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135758",
+    "external_id": "129189535752823494",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-08-20T17:16:45Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||93226104378008262||https://www.kpmguscareers.com/jobdetail/?jobId=139384",
+    "title": "Analyst II - Performance Hub",
+    "company": "KPMG US Careers",
+    "location": "Orlando, FL",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139384",
+    "external_id": "93226104378008262",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-15T23:53:58Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||86761818625581766||https://www.kpmguscareers.com/jobdetail/?jobId=139703",
+    "title": "Specialist, Federal Data Engineer",
+    "company": "KPMG US Careers",
+    "location": "McLean, VA",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139703",
+    "external_id": "86761818625581766",
+    "matched_keywords": [
+      "data engineer",
+      "data"
+    ],
+    "first_seen": "2026-10-30T00:18:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||110063768553038534||https://www.kpmguscareers.com/jobdetail/?jobId=139697",
+    "title": "Associate, Federal Data Analyst",
+    "company": "KPMG US Careers",
+    "location": "McLean, VA",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139697",
+    "external_id": "110063768553038534",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-30T00:18:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "kpmg||KPMG US Careers||94395620483048134||https://www.kpmguscareers.com/jobdetail/?jobId=139724",
+    "title": "Databricks Sales Executive (Federal sector)",
+    "company": "KPMG US Careers",
+    "location": "McLean, VA; Washington, DC",
+    "department": "Advisory",
+    "source_name": "KPMG US Careers",
+    "source_type": "kpmg",
+    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139724",
+    "external_id": "94395620483048134",
+    "matched_keywords": [
+      "data"
+    ],
+    "first_seen": "2026-11-03T02:40:18Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||00370-0013528578-usen||https://www.roberthalf.com/us/en/job/menlo-park-ca/financial-analyst/00370-0013528578-usen",
+    "title": "Financial Analyst",
+    "company": "Robert Half",
+    "location": "Menlo Park, CA",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/menlo-park-ca/financial-analyst/00370-0013528578-usen",
+    "external_id": "00370-0013528578-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-10-21T15:33:18Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||04730-0013544412-usen||https://www.roberthalf.com/us/en/job/boston-ma/financial-reporting-analyst-advanced-6-years/04730-0013544412-usen",
+    "title": "Financial Reporting Analyst Advanced ( 6 years)",
+    "company": "Robert Half",
+    "location": "Boston, MA",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/boston-ma/financial-reporting-analyst-advanced-6-years/04730-0013544412-usen",
+    "external_id": "04730-0013544412-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-17T19:52:10Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||02910-0013532184-usen||https://www.roberthalf.com/us/en/job/new-york-ny/data-analyst/02910-0013532184-usen",
+    "title": "Data Analyst",
+    "company": "Robert Half",
+    "location": "New York, NY",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/new-york-ny/data-analyst/02910-0013532184-usen",
+    "external_id": "02910-0013532184-usen",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-10-27T07:42:14Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||04060-0013496603-usen||https://www.roberthalf.com/us/en/job/fort-worth-tx/lease-administratoranalyst-5/04060-0013496603-usen",
+    "title": "Lease Administrator/Analyst 5",
+    "company": "Robert Half",
+    "location": "Fort Worth, TX",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/fort-worth-tx/lease-administratoranalyst-5/04060-0013496603-usen",
+    "external_id": "04060-0013496603-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-17T02:41:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||04400-0013539873-usen||https://www.roberthalf.com/us/en/job/bellevue-wa/data-privacy-analyst/04400-0013539873-usen",
+    "title": "Data Privacy Analyst",
+    "company": "Robert Half",
+    "location": "Bellevue, WA",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/bellevue-wa/data-privacy-analyst/04400-0013539873-usen",
+    "external_id": "04400-0013539873-usen",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-07T08:40:39Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "roberthalf||Robert Half||04820-0013537266-usen||https://www.roberthalf.com/us/en/job/provo-ut/credentialing-analyst/04820-0013537266-usen",
+    "title": "Credentialing Analyst",
+    "company": "Robert Half",
+    "location": "Provo, UT",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/provo-ut/credentialing-analyst/04820-0013537266-usen",
+    "external_id": "04820-0013537266-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-04T22:50:34Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": false
+  },
+  {
+    "key": "governmentjobs||GovernmentJobs US||5553945||https://www.governmentjobs.com/jobs/5553945-0/data-analyst-justice-services-division",
+    "title": "Data Analyst – Justice Services Division",
+    "company": "GovernmentJobs US",
+    "location": "Colorado Springs, CO",
+    "department": "El Paso County (CO)",
+    "source_name": "GovernmentJobs US",
+    "source_type": "governmentjobs",
+    "url": "https://www.governmentjobs.com/jobs/5553945-0/data-analyst-justice-services-division",
+    "external_id": "5553945",
+    "matched_keywords": [
+      "analyst",
+      "data"
+    ],
+    "first_seen": "2026-11-18T18:20:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": true
+  },
+  {
+    "key": "roberthalf||Robert Half||04130-0013543074-usen||https://www.roberthalf.com/us/en/job/houston-tx/investigations-analyst-i/04130-0013543074-usen",
+    "title": "Investigations Analyst I",
+    "company": "Robert Half",
+    "location": "Houston, TX",
+    "department": "",
+    "source_name": "Robert Half",
+    "source_type": "roberthalf",
+    "url": "https://www.roberthalf.com/us/en/job/houston-tx/investigations-analyst-i/04130-0013543074-usen",
+    "external_id": "04130-0013543074-usen",
+    "matched_keywords": [
+      "analyst"
+    ],
+    "first_seen": "2026-11-18T18:20:31Z",
+    "last_seen": "2026-11-18T18:20:31Z",
+    "is_new": true
   },
   {
     "key": "adp||Advantest Careers||5001218244000||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001218244000",
@@ -189,327 +914,6 @@
     "is_new": false
   },
   {
-    "key": "adp||Advantest Careers||5001227837306||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837306",
-    "title": "Software Engineer Java – IDE, Infrastructure and Data",
-    "company": "Advantest Careers",
-    "location": "India",
-    "department": "",
-    "source_name": "Advantest Careers",
-    "source_type": "adp",
-    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837306",
-    "external_id": "5001227837306",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-09-28T15:56:31Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "adp||Advantest Careers||5001227837500||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837500",
-    "title": "Software Engineer Java – IDE, Infrastructure and Data",
-    "company": "Advantest Careers",
-    "location": "India",
-    "department": "",
-    "source_name": "Advantest Careers",
-    "source_type": "adp",
-    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001227837500",
-    "external_id": "5001227837500",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-09-28T15:56:31Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "adp||Advantest Careers||5001220947200||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001220947200",
-    "title": "Global Data Analyst (m/f/d)",
-    "company": "Advantest Careers",
-    "location": "Boeblingen, Germany",
-    "department": "",
-    "source_name": "Advantest Careers",
-    "source_type": "adp",
-    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001220947200",
-    "external_id": "5001220947200",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-09T10:52:50Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "adp||Advantest Careers||5001228833100||https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001228833100",
-    "title": "Planning Analyst Intern",
-    "company": "Advantest Careers",
-    "location": "Texas, United States",
-    "department": "",
-    "source_name": "Advantest Careers",
-    "source_type": "adp",
-    "url": "https://myjobs.adp.com/advantestcareers/cx/job-details?reqId=5001228833100",
-    "external_id": "5001228833100",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-23T19:19:58Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5530294||https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
-    "title": "Data Production Analyst (AI & QA Analyst) (Information Technology Analyst 3)",
-    "company": "GovernmentJobs US",
-    "location": "Trenton, NJ",
-    "department": "New Jersey Courts",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5530294-0/data-production-analyst-ai-qa-analyst-information-technology-analyst-3",
-    "external_id": "5530294",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-02T20:47:50Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5530263||https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
-    "title": "Data Production Analyst (QA) (Information Technology Analyst 3)",
-    "company": "GovernmentJobs US",
-    "location": "Trenton, NJ",
-    "department": "New Jersey Courts",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5530263-0/data-production-analyst-qa-information-technology-analyst-3",
-    "external_id": "5530263",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-02T20:47:50Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5422019||https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
-    "title": "Data Reporting & Query Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Main Campus - Philadelphia, PA",
-    "department": "Community College of Philadelphia",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5422019-0/data-reporting-query-analyst",
-    "external_id": "5422019",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5453248||https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
-    "title": "Data Analyst, Principal",
-    "company": "GovernmentJobs US",
-    "location": "Atlanta, GA 30303",
-    "department": "Atlanta Regional Commission (ARC)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5453248-0/data-analyst-principal",
-    "external_id": "5453248",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-19T13:52:10Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5388193||https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
-    "title": "Institutional Research Strategic Data Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Zanesville Campus, OH",
-    "department": "Zane State College",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5388193-0/institutional-research-strategic-data-analyst",
-    "external_id": "5388193",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5501404||https://www.governmentjobs.com/jobs/5501404-0/book-fair-analyst-data-management-analyst-non-classified",
-    "title": "Book Fair Analyst (Data Management Analyst)- Non-Classified",
-    "company": "GovernmentJobs US",
-    "location": "Denver Metro, CO",
-    "department": "State of Colorado",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5501404-0/book-fair-analyst-data-management-analyst-non-classified",
-    "external_id": "5501404",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T18:30:20Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5545662||https://www.governmentjobs.com/jobs/5545662-0/departmental-analyst-9-12-trainee-asset-data-management-analyst",
-    "title": "Departmental Analyst 9-12 (Trainee) - Asset Data Management Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Lansing, MI",
-    "department": "State of Michigan",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5545662-0/departmental-analyst-9-12-trainee-asset-data-management-analyst",
-    "external_id": "5545662",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T18:30:20Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5544662||https://www.governmentjobs.com/jobs/5544662-0/data-analyst-i-fso",
-    "title": "Data Analyst I - FSO",
-    "company": "GovernmentJobs US",
-    "location": "Boise City Hall, ID",
-    "department": "City of Boise",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5544662-0/data-analyst-i-fso",
-    "external_id": "5544662",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T23:38:45Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5545958||https://www.governmentjobs.com/jobs/5545958-0/hcbs-data-analyst-2026-02711",
-    "title": "HCBS Data Analyst 2026-02711",
-    "company": "GovernmentJobs US",
-    "location": "Cheyenne, WY",
-    "department": "State of Wyoming",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5545958-0/hcbs-data-analyst-2026-02711",
-    "external_id": "5545958",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T23:38:45Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5546093||https://www.governmentjobs.com/jobs/5546093-0/research-data-analyst-i",
-    "title": "Research/Data Analyst I",
-    "company": "GovernmentJobs US",
-    "location": "25 - HINDS COUNTY, MS",
-    "department": "State of Mississippi",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5546093-0/research-data-analyst-i",
-    "external_id": "5546093",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-12T13:55:18Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5195097||https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
-    "title": "Data Analyst, Medicaid Fraud, Springfield, 26-03",
-    "company": "GovernmentJobs US",
-    "location": "Springfield, IL",
-    "department": "Illinois Attorney General (IL)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5195097-0/data-analyst-medicaid-fraud-springfield-26-03",
-    "external_id": "5195097",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5195206||https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
-    "title": "Data Analyst, Medicaid Fraud, Oakbrook, 26-01",
-    "company": "GovernmentJobs US",
-    "location": "Oakbrook, IL",
-    "department": "Illinois Attorney General (IL)",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5195206-0/data-analyst-medicaid-fraud-oakbrook-26-01",
-    "external_id": "5195206",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5547807||https://www.governmentjobs.com/jobs/5547807-0/data-analyst-dpw-grounds-admin",
-    "title": "Data Analyst - DPW Grounds - Admin",
-    "company": "GovernmentJobs US",
-    "location": "City County Building, IN",
-    "department": "City of Indianapolis and Marion County",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5547807-0/data-analyst-dpw-grounds-admin",
-    "external_id": "5547807",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-12T21:14:10Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5546680||https://www.governmentjobs.com/jobs/5546680-0/data-and-performance-analyst",
-    "title": "Data and Performance Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Seattle, WA",
-    "department": "City of Seattle",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5546680-0/data-and-performance-analyst",
-    "external_id": "5546680",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T23:38:45Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
     "key": "governmentjobs||GovernmentJobs US||5195111||https://www.governmentjobs.com/jobs/5195111-0/data-analyst-medicaid-fraud-belleville-26-02",
     "title": "Data Analyst, Medicaid Fraud, Belleville, 26-02",
     "company": "GovernmentJobs US",
@@ -524,150 +928,6 @@
       "data"
     ],
     "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5546819||https://www.governmentjobs.com/jobs/5546819-0/data-reporting-analyst-special-project-worker",
-    "title": "Data Reporting Analyst (Special Project Worker)",
-    "company": "GovernmentJobs US",
-    "location": "Austin, TX",
-    "department": "Travis County",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5546819-0/data-reporting-analyst-special-project-worker",
-    "external_id": "5546819",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-10T23:38:45Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||4775405||https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
-    "title": "PREDICTIVE DATA ANALYST / EMERGENCY APPOINTMENT HOMELESSNESS",
-    "company": "GovernmentJobs US",
-    "location": "Los Angeles County, CA",
-    "department": "County of Los Angeles",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/4775405-0/predictive-data-analyst-emergency-appointment-homelessness",
-    "external_id": "4775405",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5548125||https://www.governmentjobs.com/jobs/5548125-0/fraud-data-integrity-specialist-management-analyst-4",
-    "title": "Fraud & Data Integrity Specialist (Management Analyst 4)",
-    "company": "GovernmentJobs US",
-    "location": "Thurston County – Tumwater, WA",
-    "department": "State of Washington",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5548125-0/fraud-data-integrity-specialist-management-analyst-4",
-    "external_id": "5548125",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-14T02:27:54Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5544426||https://www.governmentjobs.com/jobs/5544426-0/data-center-environmental-analyst-trainee",
-    "title": "Data Center Environmental Analyst Trainee*",
-    "company": "GovernmentJobs US",
-    "location": "Throughout San Bernardino County, CA",
-    "department": "San Bernardino County",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5544426-0/data-center-environmental-analyst-trainee",
-    "external_id": "5544426",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-14T09:13:10Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||4543639||https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
-    "title": "AUTOMATED METERING INFRASTRUCTURE (AMI) DATA ANALYST I (CLASS CODE 3457)",
-    "company": "GovernmentJobs US",
-    "location": "New Orleans, LA",
-    "department": "City of New Orleans",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/4543639-0/automated-metering-infrastructure-ami-data-analyst-i-class-code-3457",
-    "external_id": "4543639",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5439786||https://www.governmentjobs.com/jobs/5439786-0/data-processing-analyst-continuous-9-21-26",
-    "title": "Data Processing Analyst (Continuous 9/21/26)",
-    "company": "GovernmentJobs US",
-    "location": "St. Thomas/ St. John, VI",
-    "department": "Government of the Virgin Islands",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5439786-0/data-processing-analyst-continuous-9-21-26",
-    "external_id": "5439786",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-09-21T22:43:17Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||4543757||https://www.governmentjobs.com/jobs/4543757-0/automated-metering-infrastructure-ami-data-analyst-ii-class-code-3458",
-    "title": "AUTOMATED METERING INFRASTRUCTURE (AMI) DATA ANALYST II (CLASS CODE 3458)",
-    "company": "GovernmentJobs US",
-    "location": "New Orleans, LA",
-    "department": "City of New Orleans",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/4543757-0/automated-metering-infrastructure-ami-data-analyst-ii-class-code-3458",
-    "external_id": "4543757",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-08-07T01:13:02Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "governmentjobs||GovernmentJobs US||5551133||https://www.governmentjobs.com/jobs/5551133-0/departmental-analyst-9-12-data-and-technical-training-analyst",
-    "title": "Departmental Analyst 9-12 - Data and Technical Training Analyst",
-    "company": "GovernmentJobs US",
-    "location": "Detroit, MI",
-    "department": "State of Michigan",
-    "source_name": "GovernmentJobs US",
-    "source_type": "governmentjobs",
-    "url": "https://www.governmentjobs.com/jobs/5551133-0/departmental-analyst-9-12-data-and-technical-training-analyst",
-    "external_id": "5551133",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-17T19:52:10Z",
     "last_seen": "2026-11-18T09:32:08Z",
     "is_new": false
   },
@@ -720,23 +980,6 @@
       "analyst"
     ],
     "first_seen": "2026-11-13T16:51:04Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||01200-0013516338-usen||https://www.roberthalf.com/us/en/job/honolulu-hi/financial-analyst-entry-level/01200-0013516338-usen",
-    "title": "Financial Analyst - Entry Level",
-    "company": "Robert Half",
-    "location": "Honolulu, HI",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/honolulu-hi/financial-analyst-entry-level/01200-0013516338-usen",
-    "external_id": "01200-0013516338-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-09T03:32:48Z",
     "last_seen": "2026-11-18T09:32:08Z",
     "is_new": false
   },
@@ -807,110 +1050,6 @@
     "first_seen": "2026-11-18T09:32:08Z",
     "last_seen": "2026-11-18T09:32:08Z",
     "is_new": true
-  },
-  {
-    "key": "roberthalf||Robert Half||01040-0013544801-usen||https://www.roberthalf.com/us/en/job/riviera-beach-fl/data-entry-clerk/01040-0013544801-usen",
-    "title": "Data Entry Clerk",
-    "company": "Robert Half",
-    "location": "Riviera Beach, FL",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/riviera-beach-fl/data-entry-clerk/01040-0013544801-usen",
-    "external_id": "01040-0013544801-usen",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-11-18T09:32:08Z",
-    "last_seen": "2026-11-18T09:32:08Z",
-    "is_new": true
-  },
-  {
-    "key": "kpmg||KPMG US Careers||129189535752823494||https://www.kpmguscareers.com/jobdetail/?jobId=135758",
-    "title": "Experienced Associate - Global Trade - Data Analytics",
-    "company": "KPMG US Careers",
-    "location": "Atlanta, GA; Boston, MA; Chicago, IL; Dallas, TX; Denver, CO; Detroit, MI; Ft Lauderdale, FL; Houston, TX; Los Angeles, CA; McLean, VA; Miami, FL; Morristown, NJ; New York, NY; Orlando, FL; Philadelphia, PA; Salt Lake City, UT; San Francisco, CA; Tempe, AZ",
-    "department": "Tax",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=135758",
-    "external_id": "129189535752823494",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-08-20T17:16:45Z",
-    "last_seen": "2026-11-18T01:56:31Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||93226104378008262||https://www.kpmguscareers.com/jobdetail/?jobId=139384",
-    "title": "Analyst II - Performance Hub (Temporary)",
-    "company": "KPMG US Careers",
-    "location": "Orlando, FL",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139384",
-    "external_id": "93226104378008262",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-15T23:53:58Z",
-    "last_seen": "2026-11-18T01:56:31Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||86761818625581766||https://www.kpmguscareers.com/jobdetail/?jobId=139703",
-    "title": "Specialist, Federal Data Engineer",
-    "company": "KPMG US Careers",
-    "location": "McLean, VA",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139703",
-    "external_id": "86761818625581766",
-    "matched_keywords": [
-      "data engineer",
-      "data"
-    ],
-    "first_seen": "2026-10-30T00:18:31Z",
-    "last_seen": "2026-11-18T01:56:31Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||110063768553038534||https://www.kpmguscareers.com/jobdetail/?jobId=139697",
-    "title": "Associate, Federal Data Analyst",
-    "company": "KPMG US Careers",
-    "location": "McLean, VA",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139697",
-    "external_id": "110063768553038534",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-30T00:18:31Z",
-    "last_seen": "2026-11-18T01:56:31Z",
-    "is_new": false
-  },
-  {
-    "key": "kpmg||KPMG US Careers||94395620483048134||https://www.kpmguscareers.com/jobdetail/?jobId=139724",
-    "title": "Databricks Sales Executive (Federal sector)",
-    "company": "KPMG US Careers",
-    "location": "McLean, VA; Washington, DC",
-    "department": "Advisory",
-    "source_name": "KPMG US Careers",
-    "source_type": "kpmg",
-    "url": "https://www.kpmguscareers.com/jobdetail/?jobId=139724",
-    "external_id": "94395620483048134",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-11-03T02:40:18Z",
-    "last_seen": "2026-11-18T01:56:31Z",
-    "is_new": false
   },
   {
     "key": "governmentjobs||GovernmentJobs US||5533909||https://www.governmentjobs.com/jobs/5533909-0/tax-data-information-analyst",
@@ -1274,23 +1413,6 @@
     "is_new": true
   },
   {
-    "key": "roberthalf||Robert Half||00370-0013528578-usen||https://www.roberthalf.com/us/en/job/menlo-park-ca/financial-analyst/00370-0013528578-usen",
-    "title": "Financial Analyst",
-    "company": "Robert Half",
-    "location": "Menlo Park, CA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/menlo-park-ca/financial-analyst/00370-0013528578-usen",
-    "external_id": "00370-0013528578-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-10-21T15:33:18Z",
-    "last_seen": "2026-11-17T19:52:10Z",
-    "is_new": false
-  },
-  {
     "key": "roberthalf||Robert Half||04060-0013543785-usen||https://www.roberthalf.com/us/en/job/dallas-tx/accounts-receivable-analyst/04060-0013543785-usen",
     "title": "Accounts Receivable Analyst",
     "company": "Robert Half",
@@ -1334,23 +1456,6 @@
     "source_type": "roberthalf",
     "url": "https://www.roberthalf.com/us/en/job/charlotte-nc/investigations-analyst-i/04130-0013543074-usen",
     "external_id": "04130-0013543074-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-17T19:52:10Z",
-    "last_seen": "2026-11-17T19:52:10Z",
-    "is_new": true
-  },
-  {
-    "key": "roberthalf||Robert Half||04730-0013544412-usen||https://www.roberthalf.com/us/en/job/boston-ma/financial-reporting-analyst-advanced-6-years/04730-0013544412-usen",
-    "title": "Financial Reporting Analyst Advanced ( 6 years)",
-    "company": "Robert Half",
-    "location": "Boston, MA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/boston-ma/financial-reporting-analyst-advanced-6-years/04730-0013544412-usen",
-    "external_id": "04730-0013544412-usen",
     "matched_keywords": [
       "analyst"
     ],
@@ -1583,24 +1688,6 @@
     "is_new": true
   },
   {
-    "key": "roberthalf||Robert Half||02910-0013532184-usen||https://www.roberthalf.com/us/en/job/new-york-ny/data-analyst/02910-0013532184-usen",
-    "title": "Data Analyst",
-    "company": "Robert Half",
-    "location": "New York, NY",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/new-york-ny/data-analyst/02910-0013532184-usen",
-    "external_id": "02910-0013532184-usen",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-10-27T07:42:14Z",
-    "last_seen": "2026-11-17T02:41:31Z",
-    "is_new": false
-  },
-  {
     "key": "roberthalf||Robert Half||02750-0013536271-usen||https://www.roberthalf.com/us/en/job/morristown-nj/fraud-analyst-i/02750-0013536271-usen",
     "title": "Fraud Analyst I",
     "company": "Robert Half",
@@ -1633,23 +1720,6 @@
     "first_seen": "2026-10-13T03:09:10Z",
     "last_seen": "2026-11-17T02:41:31Z",
     "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||04060-0013496603-usen||https://www.roberthalf.com/us/en/job/fort-worth-tx/lease-administratoranalyst-5/04060-0013496603-usen",
-    "title": "Lease Administrator/Analyst 5",
-    "company": "Robert Half",
-    "location": "Fort Worth, TX",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/fort-worth-tx/lease-administratoranalyst-5/04060-0013496603-usen",
-    "external_id": "04060-0013496603-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-17T02:41:31Z",
-    "last_seen": "2026-11-17T02:41:31Z",
-    "is_new": true
   },
   {
     "key": "governmentjobs||GovernmentJobs US||5533120||https://www.governmentjobs.com/jobs/5533120-0/utility-database-analyst",
@@ -1736,24 +1806,6 @@
       "analyst"
     ],
     "first_seen": "2026-11-11T17:57:55Z",
-    "last_seen": "2026-11-16T19:53:30Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||04400-0013539873-usen||https://www.roberthalf.com/us/en/job/bellevue-wa/data-privacy-analyst/04400-0013539873-usen",
-    "title": "Data Privacy Analyst",
-    "company": "Robert Half",
-    "location": "Bellevue, WA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/bellevue-wa/data-privacy-analyst/04400-0013539873-usen",
-    "external_id": "04400-0013539873-usen",
-    "matched_keywords": [
-      "analyst",
-      "data"
-    ],
-    "first_seen": "2026-11-07T08:40:39Z",
     "last_seen": "2026-11-16T19:53:30Z",
     "is_new": false
   },
@@ -3753,23 +3805,6 @@
     "first_seen": "2026-11-10T03:03:13Z",
     "last_seen": "2026-11-10T03:03:13Z",
     "is_new": true
-  },
-  {
-    "key": "roberthalf||Robert Half||04820-0013537266-usen||https://www.roberthalf.com/us/en/job/provo-ut/credentialing-analyst/04820-0013537266-usen",
-    "title": "Credentialing Analyst",
-    "company": "Robert Half",
-    "location": "Provo, UT",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/provo-ut/credentialing-analyst/04820-0013537266-usen",
-    "external_id": "04820-0013537266-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-11-04T22:50:34Z",
-    "last_seen": "2026-11-09T20:53:47Z",
-    "is_new": false
   },
   {
     "key": "roberthalf||Robert Half||04820-0013462704-usen||https://www.roberthalf.com/us/en/job/lehi-ut/database-developer/04820-0013462704-usen",
@@ -24029,178 +24064,6 @@
     ],
     "first_seen": "2026-08-07T08:45:01Z",
     "last_seen": "2026-08-20T22:59:39Z",
-    "is_new": false
-  },
-  {
-    "key": "ashby||Whatnot Careers||b1daf841-b345-469e-8038-b9c39d518156||https://jobs.ashbyhq.com/whatnot/b1daf841-b345-469e-8038-b9c39d518156",
-    "title": "Governance Risk & Compliance Analyst ",
-    "company": "Whatnot Careers",
-    "location": "San Francisco, CA",
-    "department": "Cybersecurity",
-    "source_name": "Whatnot Careers",
-    "source_type": "ashby",
-    "url": "https://jobs.ashbyhq.com/whatnot/b1daf841-b345-469e-8038-b9c39d518156",
-    "external_id": "b1daf841-b345-469e-8038-b9c39d518156",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-18T13:51:14Z",
-    "last_seen": "2026-08-20T18:04:26Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||02942-0013489750-usen||https://www.roberthalf.com/us/en/job/new-york-ny/financial-analyst/02942-0013489750-usen",
-    "title": "Financial Analyst",
-    "company": "Robert Half",
-    "location": "New York, NY",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/new-york-ny/financial-analyst/02942-0013489750-usen",
-    "external_id": "02942-0013489750-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-20T13:54:23Z",
-    "last_seen": "2026-08-20T15:43:31Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||02150-0013484225-usen||https://www.roberthalf.com/us/en/job/agawam-ma/supply-chain-analyst/02150-0013484225-usen",
-    "title": "Supply Chain Analyst",
-    "company": "Robert Half",
-    "location": "Agawam, MA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/agawam-ma/supply-chain-analyst/02150-0013484225-usen",
-    "external_id": "02150-0013484225-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-20T13:05:42Z",
-    "last_seen": "2026-08-20T15:01:34Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||03640-0013491914-usen||https://www.roberthalf.com/us/en/job/everett-wa/payroll-analyst/03640-0013491914-usen",
-    "title": "Payroll Analyst",
-    "company": "Robert Half",
-    "location": "Everett, WA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/everett-wa/payroll-analyst/03640-0013491914-usen",
-    "external_id": "03640-0013491914-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-20T00:36:04Z",
-    "last_seen": "2026-08-20T13:54:23Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||00430-0013485262-usen||https://www.roberthalf.com/us/en/job/san-mateo-ca/data-coordinator/00430-0013485262-usen",
-    "title": "Data Coordinator",
-    "company": "Robert Half",
-    "location": "San Mateo, CA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/san-mateo-ca/data-coordinator/00430-0013485262-usen",
-    "external_id": "00430-0013485262-usen",
-    "matched_keywords": [
-      "data"
-    ],
-    "first_seen": "2026-08-20T02:04:12Z",
-    "last_seen": "2026-08-20T13:54:23Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||01500-0013464386-usen||https://www.roberthalf.com/us/en/job/des-moines-ia/principal-data-engineer/01500-0013464386-usen",
-    "title": "Principal Data Engineer",
-    "company": "Robert Half",
-    "location": "Des Moines, IA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/des-moines-ia/principal-data-engineer/01500-0013464386-usen",
-    "external_id": "01500-0013464386-usen",
-    "matched_keywords": [
-      "data engineer",
-      "data"
-    ],
-    "first_seen": "2026-08-20T00:36:04Z",
-    "last_seen": "2026-08-20T13:05:42Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||01500-0013466977-usen||https://www.roberthalf.com/us/en/job/des-moines-ia/principal-data-engineer/01500-0013466977-usen",
-    "title": "Principal Data Engineer",
-    "company": "Robert Half",
-    "location": "Des Moines, IA",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/des-moines-ia/principal-data-engineer/01500-0013466977-usen",
-    "external_id": "01500-0013466977-usen",
-    "matched_keywords": [
-      "data engineer",
-      "data"
-    ],
-    "first_seen": "2026-08-20T00:36:04Z",
-    "last_seen": "2026-08-20T13:05:42Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||03230-0013483386-usen||https://www.roberthalf.com/us/en/job/greenville-sc/accountantanalyst/03230-0013483386-usen",
-    "title": "ACCOUNTANT/ANALYST",
-    "company": "Robert Half",
-    "location": "Greenville, SC",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/greenville-sc/accountantanalyst/03230-0013483386-usen",
-    "external_id": "03230-0013483386-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-13T13:40:42Z",
-    "last_seen": "2026-08-20T13:05:42Z",
-    "is_new": false
-  },
-  {
-    "key": "workday||Accenture Careers Alt||Ebene||https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Business-Analyst--Scrum-Master-_R00340005",
-    "title": "Business Analyst (Scrum Master)",
-    "company": "Accenture Careers Alt",
-    "location": "R00340005 | Ebene",
-    "department": "",
-    "source_name": "Accenture Careers Alt",
-    "source_type": "workday",
-    "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ebene/Business-Analyst--Scrum-Master-_R00340005",
-    "external_id": "Ebene",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-17T12:20:32Z",
-    "last_seen": "2026-08-20T11:17:09Z",
-    "is_new": false
-  },
-  {
-    "key": "roberthalf||Robert Half||01070-9504381159-usen||https://www.roberthalf.com/us/en/job/tampa-fl/business-analyst-ifs-cloud/01070-9504381159-usen",
-    "title": "Business Analyst - IFS Cloud",
-    "company": "Robert Half",
-    "location": "Tampa, FL",
-    "department": "",
-    "source_name": "Robert Half",
-    "source_type": "roberthalf",
-    "url": "https://www.roberthalf.com/us/en/job/tampa-fl/business-analyst-ifs-cloud/01070-9504381159-usen",
-    "external_id": "01070-9504381159-usen",
-    "matched_keywords": [
-      "analyst"
-    ],
-    "first_seen": "2026-08-19T13:52:10Z",
-    "last_seen": "2026-08-20T11:17:09Z",
     "is_new": false
   }
 ]
