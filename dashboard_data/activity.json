@@ -1,131 +1,5 @@
 [
   {
-    "timestamp": "2026-10-12T15:32:18Z",
-    "status": "partial",
-    "duration_seconds": 42.43,
-    "sources_total": 16,
-    "sources_succeeded": 15,
-    "sources_failed": 1,
-    "jobs_fetched": 1040,
-    "jobs_matched": 82,
-    "new_jobs": 4,
-    "alerts_sent": 4,
-    "sources": [
-      {
-        "name": "Cascade Financial Services",
-        "status": "healthy",
-        "jobs_fetched": 7,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Skechers Data Search",
-        "status": "healthy",
-        "jobs_fetched": 10,
-        "jobs_matched": 4,
-        "error": null
-      },
-      {
-        "name": "SCAN Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Santander Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 8,
-        "error": null
-      },
-      {
-        "name": "Entertime Careers",
-        "status": "failed",
-        "jobs_fetched": 0,
-        "jobs_matched": 0,
-        "error": "403 Client Error: Forbidden for url: https://secure4.entertimeonline.com/ta/rest/ui/recruitment/companies/%7C6149039/job-requisitions?_=1791819096487&offset=0&size=20&lang=en-US&sort=desc"
-      },
-      {
-        "name": "GumGum Careers",
-        "status": "healthy",
-        "jobs_fetched": 10,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Petco Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 0,
-        "error": null
-      },
-      {
-        "name": "Intel Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 1,
-        "error": null
-      },
-      {
-        "name": "Thomson Reuters Careers",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 3,
-        "error": null
-      },
-      {
-        "name": "Accenture Careers Alt",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 6,
-        "error": null
-      },
-      {
-        "name": "Doximity Careers",
-        "status": "healthy",
-        "jobs_fetched": 15,
-        "jobs_matched": 3,
-        "error": null
-      },
-      {
-        "name": "Whatnot Careers",
-        "status": "healthy",
-        "jobs_fetched": 151,
-        "jobs_matched": 12,
-        "error": null
-      },
-      {
-        "name": "GovernmentJobs US",
-        "status": "healthy",
-        "jobs_fetched": 40,
-        "jobs_matched": 33,
-        "error": null
-      },
-      {
-        "name": "Robert Half",
-        "status": "healthy",
-        "jobs_fetched": 114,
-        "jobs_matched": 5,
-        "error": null
-      },
-      {
-        "name": "Advantest Careers",
-        "status": "healthy",
-        "jobs_fetched": 273,
-        "jobs_matched": 4,
-        "error": null
-      },
-      {
-        "name": "KPMG US Careers",
-        "status": "healthy",
-        "jobs_fetched": 180,
-        "jobs_matched": 3,
-        "error": null
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-12T22:35:03Z",
     "status": "success",
     "duration_seconds": 40.48,
@@ -25187,6 +25061,132 @@
         "name": "Advantest Careers",
         "status": "healthy",
         "jobs_fetched": 301,
+        "jobs_matched": 4,
+        "error": null
+      },
+      {
+        "name": "KPMG US Careers",
+        "status": "healthy",
+        "jobs_fetched": 180,
+        "jobs_matched": 6,
+        "error": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-23T10:54:59Z",
+    "status": "partial",
+    "duration_seconds": 38.36,
+    "sources_total": 16,
+    "sources_succeeded": 10,
+    "sources_failed": 6,
+    "jobs_fetched": 808,
+    "jobs_matched": 55,
+    "new_jobs": 0,
+    "alerts_sent": 0,
+    "sources": [
+      {
+        "name": "Cascade Financial Services",
+        "status": "healthy",
+        "jobs_fetched": 4,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "Skechers Data Search",
+        "status": "warning",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "SCAN Careers",
+        "status": "failed",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://scanhealthplan.wd108.myworkdayjobs.com/wday/cxs/scanhealthplan/scancareers/jobs"
+      },
+      {
+        "name": "Santander Careers",
+        "status": "failed",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs"
+      },
+      {
+        "name": "Entertime Careers",
+        "status": "healthy",
+        "jobs_fetched": 16,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "GumGum Careers",
+        "status": "healthy",
+        "jobs_fetched": 10,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "Petco Careers",
+        "status": "failed",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://petco.wd504.myworkdayjobs.com/wday/cxs/petco/External/jobs"
+      },
+      {
+        "name": "Intel Careers",
+        "status": "failed",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+      },
+      {
+        "name": "Thomson Reuters Careers",
+        "status": "failed",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Site/jobs"
+      },
+      {
+        "name": "Accenture Careers Alt",
+        "status": "failed",
+        "jobs_fetched": 0,
+        "jobs_matched": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs"
+      },
+      {
+        "name": "Doximity Careers",
+        "status": "healthy",
+        "jobs_fetched": 10,
+        "jobs_matched": 0,
+        "error": null
+      },
+      {
+        "name": "Whatnot Careers",
+        "status": "healthy",
+        "jobs_fetched": 131,
+        "jobs_matched": 8,
+        "error": null
+      },
+      {
+        "name": "GovernmentJobs US",
+        "status": "healthy",
+        "jobs_fetched": 30,
+        "jobs_matched": 27,
+        "error": null
+      },
+      {
+        "name": "Robert Half",
+        "status": "healthy",
+        "jobs_fetched": 124,
+        "jobs_matched": 10,
+        "error": null
+      },
+      {
+        "name": "Advantest Careers",
+        "status": "healthy",
+        "jobs_fetched": 303,
         "jobs_matched": 4,
         "error": null
       },
