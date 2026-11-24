@@ -5,8 +5,8 @@
     "status": "healthy",
     "jobs_fetched": 4,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 116,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 79,
     "error": null
   },
   {
@@ -15,19 +15,19 @@
     "status": "warning",
     "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 626,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 533,
     "error": null
   },
   {
     "name": "SCAN Careers",
     "type": "workday",
-    "status": "healthy",
-    "jobs_fetched": 40,
-    "jobs_matched": 1,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 1188,
-    "error": null
+    "status": "failed",
+    "jobs_fetched": 0,
+    "jobs_matched": 0,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 704,
+    "error": "429 Client Error: Too Many Requests for url: https://scanhealthplan.wd108.myworkdayjobs.com/wday/cxs/scanhealthplan/scancareers/jobs"
   },
   {
     "name": "Santander Careers",
@@ -35,8 +35,8 @@
     "status": "failed",
     "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 505,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 578,
     "error": "429 Client Error: Too Many Requests for url: https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs"
   },
   {
@@ -45,8 +45,8 @@
     "status": "healthy",
     "jobs_fetched": 16,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 334,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 236,
     "error": null
   },
   {
@@ -55,19 +55,19 @@
     "status": "healthy",
     "jobs_fetched": 9,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 88,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 58,
     "error": null
   },
   {
     "name": "Petco Careers",
     "type": "workday",
-    "status": "healthy",
-    "jobs_fetched": 40,
+    "status": "failed",
+    "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 1597,
-    "error": null
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 34,
+    "error": "429 Client Error: Too Many Requests for url: https://petco.wd504.myworkdayjobs.com/wday/cxs/petco/External/jobs"
   },
   {
     "name": "Intel Careers",
@@ -75,8 +75,8 @@
     "status": "failed",
     "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 61,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 28,
     "error": "429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
   },
   {
@@ -85,8 +85,8 @@
     "status": "failed",
     "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 107,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 45,
     "error": "429 Client Error: Too Many Requests for url: https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Site/jobs"
   },
   {
@@ -95,8 +95,8 @@
     "status": "failed",
     "jobs_fetched": 0,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 460,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 496,
     "error": "429 Client Error: Too Many Requests for url: https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs"
   },
   {
@@ -105,8 +105,8 @@
     "status": "healthy",
     "jobs_fetched": 11,
     "jobs_matched": 0,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 102,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 52,
     "error": null
   },
   {
@@ -115,8 +115,8 @@
     "status": "healthy",
     "jobs_fetched": 131,
     "jobs_matched": 8,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 371,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 299,
     "error": null
   },
   {
@@ -125,28 +125,28 @@
     "status": "healthy",
     "jobs_fetched": 30,
     "jobs_matched": 27,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 37695,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 36630,
     "error": null
   },
   {
     "name": "Robert Half",
     "type": "roberthalf",
     "status": "healthy",
-    "jobs_fetched": 97,
-    "jobs_matched": 6,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 14796,
+    "jobs_fetched": 111,
+    "jobs_matched": 2,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 15245,
     "error": null
   },
   {
     "name": "Advantest Careers",
     "type": "adp",
     "status": "healthy",
-    "jobs_fetched": 301,
+    "jobs_fetched": 302,
     "jobs_matched": 4,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 3136,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 2933,
     "error": null
   },
   {
@@ -155,8 +155,8 @@
     "status": "healthy",
     "jobs_fetched": 180,
     "jobs_matched": 6,
-    "last_scan": "2026-11-23T22:18:11Z",
-    "duration_ms": 13065,
+    "last_scan": "2026-11-24T06:07:15Z",
+    "duration_ms": 16514,
     "error": null
   }
 ]
